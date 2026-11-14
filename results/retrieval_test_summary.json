@@ -1,0 +1,34 @@
+[
+  {
+    "strategy": "chosen_hybrid_test",
+    "split": "test",
+    "n": 5,
+    "hit1": 5,
+    "hit1_rate": 1.0,
+    "hit3": 5,
+    "hit3_rate": 1.0,
+    "context_hit": 5,
+    "context_evidence_rate": 1.0,
+    "avg_context_chars": 979,
+    "median_ms": 3.08,
+    "mean_ms": 4.09,
+    "service_cost_usd": 0.0,
+    "config_name": "Cấu hình đã chọn (Weighted Hybrid RRF + Budget 1400)"
+  },
+  {
+    "strategy": "baseline_tfidf_test",
+    "split": "test",
+    "n": 5,
+    "hit1": 5,
+    "hit1_rate": 1.0,
+    "hit3": 5,
+    "hit3_rate": 1.0,
+    "context_hit": 3,
+    "context_evidence_rate": 0.6,
+    "avg_context_chars": 700.2,
+    "median_ms": 0.43,
+    "mean_ms": 0.44,
+    "service_cost_usd": 0.0,
+    "config_name": "Baseline (Lexical TF-IDF)"
+  }
+]

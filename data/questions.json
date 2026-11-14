@@ -1,0 +1,278 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Chuẩn đầu ra về ngoại ngữ đối với sinh viên tốt nghiệp hệ chuẩn yêu cầu chứng chỉ tiếng Anh nào?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 1,
+        "evidence": "Sinh viên tốt nghiệp hệ chuẩn bắt buộc đạt chứng chỉ tiếng Anh quốc tế tối thiểu TOEIC 600 điểm (hoặc IELTS 5.5, TOEFL iBT 65 điểm)."
+      }
+    ],
+    "expected_answer": "Chứng chỉ tiếng Anh quốc tế tối thiểu TOEIC 600 điểm (hoặc IELTS 5.5, TOEFL iBT 65 điểm)."
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Thời gian đào tạo tối đa cho phép đối với chương trình cử nhân hệ 4 năm là bao lâu?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 2,
+        "evidence": "Tối đa không quá 8 năm học đối với các chương trình chuẩn 4 năm;"
+      }
+    ],
+    "expected_answer": "Tối đa không quá 8 năm học đối với các chương trình chuẩn 4 năm."
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Sinh viên muốn chuyển ngành đào tạo cần đáp ứng điểm trung bình chung tích lũy năm thứ nhất tối thiểu là bao nhiêu?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 4,
+        "evidence": "Điểm trung bình chung tích lũy (CPA) của năm thứ nhất đạt từ 2.50 trở lên trên thang điểm 4.0;"
+      }
+    ],
+    "expected_answer": "Điểm trung bình chung tích lũy (CPA) của năm thứ nhất đạt từ 2.50 trở lên trên thang điểm 4.0."
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Sinh viên có học lực bình thường phải đăng ký tối thiểu và tối đa bao nhiêu tín chỉ trong một học kỳ chính?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 5,
+        "evidence": "Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ;"
+      }
+    ],
+    "expected_answer": "Tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ."
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Nếu rút học phần trong hai tuần đầu tiên của học kỳ, sinh viên được nhận lại bao nhiêu phần trăm học phí?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 6,
+        "evidence": "Sinh viên rút học phần trong 2 tuần đầu được hoàn lại 50% học phí của học phần đó;"
+      }
+    ],
+    "expected_answer": "Được hoàn lại 50% học phí của học phần đó."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Sinh viên vắng mặt quá bao nhiêu phần trăm số tiết lý thuyết thì sẽ bị cấm thi kết thúc học phần?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 7,
+        "evidence": "Sinh viên nghỉ học vượt quá 20% tổng số tiết lý thuyết mà không có lý do bất khả kháng được Ban Giám hiệu chấp thuận sẽ bị giảng viên lập biên bản cấm thi kết thúc học phần;"
+      }
+    ],
+    "expected_answer": "Vắng quá 20% tổng số tiết lý thuyết mà không có lý do bất khả kháng."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Sinh viên bị cảnh báo học tập mức 1 sẽ bị giới hạn số lượng tín chỉ đăng ký ở học kỳ kế tiếp trong khoảng nào?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 9,
+        "evidence": "Cảnh báo học tập mức 1 (CBHT 1): Gửi thông báo đến sinh viên và Cố vấn học tập, giới hạn số tín chỉ đăng ký học kỳ tới từ 10 đến 14 TC;"
+      }
+    ],
+    "expected_answer": "Từ 10 đến 14 tín chỉ."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Điểm tổng kết học phần theo thang điểm 10 từ 8.5 đến 8.9 sẽ được quy đổi sang điểm chữ và thang điểm 4 như thế nào?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 12,
+        "evidence": "Điểm 10 từ 8.5 đến 8.9 -> Điểm chữ: A -> Thang điểm 4: 3.7;"
+      }
+    ],
+    "expected_answer": "Điểm chữ A, tương ứng 3.7 trên thang điểm 4."
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Thời hạn nộp đơn xin phúc khảo bài thi kết thúc học phần là bao nhiêu ngày kể từ khi công bố điểm?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 14,
+        "evidence": "Trong vòng 07 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên Portal học vụ."
+      }
+    ],
+    "expected_answer": "Trong vòng 07 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên Portal."
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Sinh viên nhờ người khác thi hộ lần đầu tiên sẽ bị áp dụng hình thức xử lý kỷ luật nào?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 16,
+        "evidence": "Vi phạm lần thứ nhất: Bị kỷ luật đình chỉ học tập 01 năm học (buộc nghỉ học 2 học kỳ chính) và thông báo công khai toàn trường;"
+      }
+    ],
+    "expected_answer": "Bị kỷ luật đình chỉ học tập 01 năm học (buộc nghỉ học 2 học kỳ chính) và thông báo công khai toàn trường."
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Đơn giá học phí cho 01 tín chỉ ngành Công nghệ thông tin theo quy định năm 2024 là bao nhiêu?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 17,
+        "evidence": "Khối ngành Khoa học tự nhiên, Công nghệ thông tin và Kỹ thuật: 520.000 VNĐ / tín chỉ;"
+      }
+    ],
+    "expected_answer": "520.000 VNĐ / tín chỉ.",
+    "filter": {
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2024
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Mức tiền thưởng học bổng khuyến khích học tập loại Giỏi trong năm học 2024 được tính bằng bao nhiêu phần trăm mức học phí?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 19,
+        "evidence": "Mức học bổng loại Giỏi: Bằng 100% mức học phí chuẩn của ngành học trong học kỳ;"
+      }
+    ],
+    "expected_answer": "Bằng 100% mức học phí chuẩn của ngành học trong học kỳ.",
+    "filter": {
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2024
+    }
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Theo quy định mới năm 2025, mức học bổng khuyến khích học tập loại Xuất sắc bằng bao nhiêu phần trăm học phí?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2025",
+        "page": 21,
+        "evidence": "Học bổng loại Xuất sắc (Cực kỳ xuất sắc): Bằng 130% mức học phí học kỳ (tăng 10% so với quy định năm 2024);"
+      }
+    ],
+    "expected_answer": "Bằng 130% mức học phí học kỳ (tăng 10% so với quy định năm 2024).",
+    "filter": {
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2025
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Sinh viên cần đạt điểm trung bình tích lũy CPA tối thiểu bao nhiêu để được đăng ký làm Khóa luận tốt nghiệp?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 23,
+        "evidence": "Điểm trung bình chung tích lũy (CPA) tính đến thời điểm xét làm khóa luận đạt từ 2.65 trở lên trên thang điểm 4.0;"
+      }
+    ],
+    "expected_answer": "CPA từ 2.65 trở lên trên thang điểm 4.0."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Báo cáo khóa luận tốt nghiệp quét qua phần mềm Turnitin có tỷ lệ trùng lặp tối đa cho phép là bao nhiêu phần trăm?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 24,
+        "evidence": "Tỷ lệ trùng lặp tương đồng (Similarity Index) tối đa cho phép là dưới 20% (sau khi đã loại bỏ danh mục tài liệu tham khảo và mẫu trang bìa);"
+      }
+    ],
+    "expected_answer": "Tỷ lệ trùng lặp tương đồng dưới 20%."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Sinh viên tốt nghiệp đạt điểm CPA toàn khóa từ 3.60 đến 4.00 được xếp hạng tốt nghiệp loại gì?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 26,
+        "evidence": "Loại Xuất sắc: CPA từ 3.60 đến 4.00;"
+      }
+    ],
+    "expected_answer": "Loại Xuất sắc."
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Điểm rèn luyện của sinh viên trong một học kỳ được xếp loại Xuất sắc khi đạt trong khoảng bao nhiêu điểm?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 27,
+        "evidence": "Loại Xuất sắc: Đạt từ 90 đến 100 điểm;"
+      }
+    ],
+    "expected_answer": "Đạt từ 90 đến 100 điểm."
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Sinh viên có quyền gửi đơn khiếu nại quyết định kỷ luật trong thời hạn tối đa bao nhiêu ngày làm việc?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 30,
+        "evidence": "Đơn khiếu nại phải được gửi bằng văn bản trực tiếp đến Phòng Thanh tra và Pháp chế trong thời hạn tối đa 15 ngày làm việc kể từ ngày nhận được Quyết định kỷ luật;"
+      }
+    ],
+    "expected_answer": "Trong thời hạn tối đa 15 ngày làm việc kể từ ngày nhận được Quyết định kỷ luật."
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Đơn giá 01 tín chỉ ngành Trí tuệ nhân tạo và Khoa học dữ liệu áp dụng từ năm học 2025 là bao nhiêu?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2025",
+        "page": 22,
+        "evidence": "Khối ngành Kỹ thuật, Công nghệ thông tin, Khoa học dữ liệu và Trí tuệ nhân tạo: 580.000 VNĐ / tín chỉ (điều chỉnh tăng 11.5% so với năm 2024);"
+      }
+    ],
+    "expected_answer": "580.000 VNĐ / tín chỉ (điều chỉnh tăng 11.5% so với năm 2024).",
+    "filter": {
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2025
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Ký túc xá nhà trường mở cửa và đóng cửa vào các khung giờ nào trong ngày?",
+    "gold": [
+      {
+        "source_id": "student-handbook-2024",
+        "page": 31,
+        "evidence": "Giờ mở cửa và đóng cửa Ký túc xá: Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày."
+      }
+    ],
+    "expected_answer": "Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày."
+  }
+]

@@ -1,0 +1,1360 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Chuẩn đầu ra về ngoại ngữ đối với sinh viên tốt nghiệp hệ chuẩn yêu cầu chứng chỉ tiếng Anh nào?",
+    "status": "answered",
+    "answer": "Sinh viên tốt nghiệp hệ chuẩn bắt buộc đạt chứng chỉ tiếng Anh quốc tế tối thiểu TOEIC 600 điểm, hoặc IELTS 5.5, hoặc TOEFL iBT 65 điểm [student-handbook-2024_p01_par_003].",
+    "citations": [
+      "student-handbook-2024_p01_par_003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "chuẩn đầu ra ngoại ngữ sinh viên tốt nghiệp hệ chuẩn",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p01_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 1,
+            "text": "Điều 2. Mục tiêu đào tạo và chuẩn đầu ra của sinh viên\n1. Mục tiêu chung: Đào tạo nguồn nhân lực chất lượng cao, có phẩm chất chính trị vững vàng, đạo đức nghề nghiệp trong sáng, có kiến thức chuyên môn sâu rộng và năng lực thực hành nghề nghiệp linh hoạt, đáp ứng tiêu chuẩn của cuộc Cách mạng Công nghiệp lần thứ tư và hội nhập quốc tế. 2. Chuẩn đầu ra về năng lực chuyên môn: Sinh viên tốt nghiệp phải nắm vững khối kiến thức cơ sở ngành và chuyên ngành, có khả năng phân tích, thiết kế, triển khai và đánh giá các hệ thống phức tạp trong lĩnh vực được đào tạo. 3. Chuẩn đầu ra về ngoại ngữ: Sinh viên tốt nghiệp hệ chuẩn bắt buộc đạt chứng chỉ tiếng Anh quốc tế tối thiểu TOEIC 600 điểm (hoặc IELTS 5.5, TOEFL iBT 65 điểm).",
+            "metadata": {
+              "section": "quy_dinh_chung",
+              "year": 2024,
+              "title": "Chương I: Quy định chung và Mục tiêu chương trình đào tạo",
+              "char_count": 727,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p26_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 26,
+            "text": "Điều 52. Tiêu chuẩn và điều kiện công nhận tốt nghiệp đại học\n1. Sinh viên được Nhà trường xét và công nhận tốt nghiệp khi thỏa mãn đồng thời tất cả các tiêu chuẩn khắt khe sau:\na) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật từ mức đình chỉ học tập trở lên; b) Tích lũy đủ số lượng tín chỉ quy định của chương trình đào tạo chuyên ngành (tối thiểu 125 TC với cử nhân, 150 TC với kỹ sư); c) Điểm trung bình chung tích lũy (CPA) của toàn khóa học đạt từ 2.00 trở lên trên thang điểm 4.0; d) Đạt chuẩn đầu ra về ngoại ngữ quốc tế (TOEIC tối thiểu 600 hoặc IELTS 5.5 đối với hệ chuẩn); e) Đạt chuẩn kỹ năng sử dụng công nghệ thông tin theo quy định hiện hành;",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Điều kiện xét tốt nghiệp và Cấp bằng cử nhân/kỹ sư",
+              "char_count": 725,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p01_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 1,
+            "text": "Đối với chương trình chất lượng cao, chuẩn đầu ra yêu cầu tối thiểu IELTS 6.5 hoặc TOEIC 750 điểm. 4. Chuẩn đầu ra về tin học và kỹ năng mềm: Sinh viên phải có chứng chỉ Ứng dụng Công nghệ thông tin nâng cao và hoàn thành tối thiểu 03 học phần kỹ năng mềm bắt buộc bao gồm: Kỹ năng giao tiếp và thuyết trình, Kỹ năng làm việc nhóm và giải quyết xung đột, Kỹ năng quản lý thời gian và lập kế hoạch nghề nghiệp.",
+            "metadata": {
+              "section": "quy_dinh_chung",
+              "year": 2024,
+              "title": "Chương I: Quy định chung và Mục tiêu chương trình đào tạo",
+              "char_count": 409,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.03467261904761905,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p01_par_003 | data/raw/student_handbook_corpus.json | page 1]\nĐiều 2. Mục tiêu đào tạo và chuẩn đầu ra của sinh viên\n1. Mục tiêu chung: Đào tạo nguồn nhân lực chất lượng cao, có phẩm chất chính trị vững vàng, đạo đức nghề nghiệp trong sáng, có kiến thức chuyên môn sâu rộng và năng lực thực hành nghề nghiệp linh hoạt, đáp ứng tiêu chuẩn của cuộc Cách mạng Công nghiệp lần thứ tư và hội nhập quốc tế. 2. Chuẩn đầu ra về năng lực chuyên môn: Sinh viên tốt nghiệp phải nắm vững khối kiến thức cơ sở ngành và chuyên ngành, có khả năng phân tích, thiết kế, triển khai và đánh giá các hệ thống phức tạp trong lĩnh vực được đào tạo. 3. Chuẩn đầu ra về ngoại ngữ: Sinh viên tốt nghiệp hệ chuẩn bắt buộc đạt chứng chỉ tiếng Anh quốc tế tối thiểu TOEIC 600 điểm (hoặc IELTS 5.5, TOEFL iBT 65 điểm).\n\n[student-handbook-2024_p01_par_004 | data/raw/student_handbook_corpus.json | page 1]\nĐối với chương trình chất lượng cao, chuẩn đầu ra yêu cầu tối thiểu IELTS 6.5 hoặc TOEIC 750 điểm. 4. Chuẩn đầu ra về tin học và kỹ năng mềm: Sinh viên phải có chứng chỉ Ứng dụng Công nghệ thông tin nâng cao và hoàn thành tối thiểu 03 học phần kỹ năng mềm bắt buộc bao gồm: Kỹ năng giao tiếp và thuyết trình, Kỹ năng làm việc nhóm và giải quyết xung đột, Kỹ năng quản lý thời gian và lập kế hoạch nghề nghiệp.",
+        "context_ids": [
+          "student-handbook-2024_p01_par_003",
+          "student-handbook-2024_p01_par_004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3133.01,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "Thời gian đào tạo tối đa cho phép đối với chương trình cử nhân hệ 4 năm là bao lâu?",
+    "status": "answered",
+    "answer": "Thời gian đào tạo tối đa cho phép đối với chương trình cử nhân hệ 4 năm là không quá 8 năm học [student-handbook-2024_p02_par_002].",
+    "citations": [
+      "student-handbook-2024_p02_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời gian đào tạo tối đa chương trình cử nhân 4 năm",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p02_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 2,
+            "text": "Điều 4. Thời gian đào tạo theo kế hoạch chuẩn và thời gian tối đa\n1. Thời gian đào tạo theo kế hoạch chuẩn đối với chương trình cử nhân là 4 năm học (tương ứng 8 học kỳ chính). Đối với chương trình kỹ sư hoặc các ngành đào tạo tích hợp cử nhân - thạc sĩ, thời gian đào tạo chuẩn là 4,5 đến 5 năm học. 2. Thời gian tối đa để sinh viên hoàn thành toàn bộ chương trình khóa học không được vượt quá 2 lần thời gian thiết kế chuẩn:\na) Tối đa không quá 8 năm học đối với các chương trình chuẩn 4 năm; b) Tối đa không quá 9 năm học đối với các chương trình chuẩn 4,5 năm;",
+            "metadata": {
+              "section": "quy_dinh_chung",
+              "year": 2024,
+              "title": "Chương I: Thời gian và Kế hoạch đào tạo chuẩn",
+              "char_count": 564,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p02_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 2,
+            "text": "c) Đối với các đối tượng sinh viên ưu tiên theo quy định của Nhà nước (như sinh viên khuyết tật, thương bệnh binh, sinh viên cử tuyển), thời gian tối đa có thể được gia hạn thêm nhưng không quá 02 học kỳ phụ do Hiệu trưởng xem xét quyết định. 3. Trường hợp sinh viên học vượt tiến độ để tốt nghiệp sớm: Sinh viên có quyền đăng ký khối lượng học tập tăng thêm trong từng học kỳ để rút ngắn thời gian đào tạo nhưng thời gian học tập thực tế tại trường không được ít hơn 3 năm đối với hệ đào tạo 4 năm.",
+            "metadata": {
+              "section": "quy_dinh_chung",
+              "year": 2024,
+              "title": "Chương I: Thời gian và Kế hoạch đào tạo chuẩn",
+              "char_count": 499,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.03522785458269329,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p04_par_005",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 4,
+            "text": "Sinh viên chỉ được xét cấp văn bằng tốt nghiệp của chương trình thứ hai sau khi đã được công nhận tốt nghiệp và cấp bằng của chương trình thứ nhất. Thời gian tối đa để hoàn thành cả hai chương trình không vượt quá thời gian tối đa của chương trình thứ nhất.",
+            "metadata": {
+              "section": "tuyen_sinh_nhap_hoc",
+              "year": 2024,
+              "title": "Chương II: Chuyển trường, Chuyển ngành và Học cùng lúc hai chương trình",
+              "char_count": 257,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 5
+            },
+            "score": 0.035176651305683565,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p02_par_002 | data/raw/student_handbook_corpus.json | page 2]\nĐiều 4. Thời gian đào tạo theo kế hoạch chuẩn và thời gian tối đa\n1. Thời gian đào tạo theo kế hoạch chuẩn đối với chương trình cử nhân là 4 năm học (tương ứng 8 học kỳ chính). Đối với chương trình kỹ sư hoặc các ngành đào tạo tích hợp cử nhân - thạc sĩ, thời gian đào tạo chuẩn là 4,5 đến 5 năm học. 2. Thời gian tối đa để sinh viên hoàn thành toàn bộ chương trình khóa học không được vượt quá 2 lần thời gian thiết kế chuẩn:\na) Tối đa không quá 8 năm học đối với các chương trình chuẩn 4 năm; b) Tối đa không quá 9 năm học đối với các chương trình chuẩn 4,5 năm;\n\n[student-handbook-2024_p02_par_003 | data/raw/student_handbook_corpus.json | page 2]\nc) Đối với các đối tượng sinh viên ưu tiên theo quy định của Nhà nước (như sinh viên khuyết tật, thương bệnh binh, sinh viên cử tuyển), thời gian tối đa có thể được gia hạn thêm nhưng không quá 02 học kỳ phụ do Hiệu trưởng xem xét quyết định. 3. Trường hợp sinh viên học vượt tiến độ để tốt nghiệp sớm: Sinh viên có quyền đăng ký khối lượng học tập tăng thêm trong từng học kỳ để rút ngắn thời gian đào tạo nhưng thời gian học tập thực tế tại trường không được ít hơn 3 năm đối với hệ đào tạo 4 năm.",
+        "context_ids": [
+          "student-handbook-2024_p02_par_002",
+          "student-handbook-2024_p02_par_003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2908.39,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Sinh viên muốn chuyển ngành đào tạo cần đáp ứng điểm trung bình chung tích lũy năm thứ nhất tối thiểu là bao nhiêu?",
+    "status": "answered",
+    "answer": "Sinh viên muốn chuyển ngành đào tạo cần đáp ứng điểm trung bình chung tích lũy (CPA) của năm thứ nhất đạt từ 2.50 trở lên trên thang điểm 4.0 [student-handbook-2024_p04_par_002].",
+    "citations": [
+      "student-handbook-2024_p04_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "điều kiện chuyển ngành đào tạo điểm trung bình tích lũy năm thứ nhất",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p04_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 4,
+            "text": "Điều 8. Điều kiện chuyển ngành đào tạo và chuyển cơ sở\n1. Sinh viên chỉ được xem xét chuyển ngành đào tạo sau khi hoàn thành năm học thứ nhất (tương ứng hoàn thành tối thiểu 30 tín chỉ của khối kiến thức đại cương) và phải thỏa mãn đồng thời các điều kiện khắt khe sau:\na) Điểm trúng tuyển đầu vào của sinh viên tại năm tuyển sinh phải bằng hoặc cao hơn điểm chuẩn trúng tuyển của ngành xin chuyển đến trong cùng đợt xét tuyển; b) Điểm trung bình chung tích lũy (CPA) của năm thứ nhất đạt từ 2.50 trở lên trên thang điểm 4.0; c) Sinh viên không bị cảnh báo học tập và không đang trong thời gian chấp hành kỷ luật từ mức khiển trách trở lên; d) Ngành đào tạo xin chuyển đến còn chỉ tiêu tiếp nhận sinh viên theo phê duyệt hàng năm của Hội đồng đào tạo. 2.",
+            "metadata": {
+              "section": "tuyen_sinh_nhap_hoc",
+              "year": 2024,
+              "title": "Chương II: Chuyển trường, Chuyển ngành và Học cùng lúc hai chương trình",
+              "char_count": 754,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p04_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 4,
+            "text": "Sinh viên không được phép chuyển ngành trong các trường hợp sau: Đang là sinh viên năm thứ tư; sinh viên trúng tuyển theo diện cử tuyển hoặc hợp đồng đào tạo theo địa chỉ; sinh viên thuộc nhóm ngành nghệ thuật chuyển sang nhóm ngành kỹ thuật, kinh tế. 3. Hồ sơ xin chuyển ngành phải nộp về Phòng Đào tạo trước khi bắt đầu học kỳ mới ít nhất 04 tuần để Hội đồng chuyên môn thẩm định và trình Hiệu trưởng ra quyết định.",
+            "metadata": {
+              "section": "tuyen_sinh_nhap_hoc",
+              "year": 2024,
+              "title": "Chương II: Chuyển trường, Chuyển ngành và Học cùng lúc hai chương trình",
+              "char_count": 417,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.03522785458269329,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p04_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 4,
+            "text": "Điều 9. Đăng ký học cùng lúc hai chương trình (Song bằng)\n1. Sinh viên có nguyện vọng học cùng lúc hai chương trình đào tạo đại học chính quy (song ngành) được nộp đơn đăng ký khi đáp ứng các tiêu chuẩn sau:\na) Đã tích lũy đủ khối lượng kiến thức năm thứ nhất của chương trình thứ nhất với số tín chỉ đạt tối thiểu 30 TC; b) Điểm trung bình chung tích lũy của chương trình thứ nhất đạt từ 2.80 trở lên trên thang điểm 4.0 hoặc đạt loại Khá trở lên; c) Điểm rèn luyện đạt từ loại Tốt (80 điểm) trở lên trong tất cả các học kỳ đã học. 2. Trong quá trình học cùng lúc hai chương trình, nếu điểm trung bình tích lũy của chương trình thứ nhất bị giảm xuống dưới 2.00 hoặc bị rơi vào diện cảnh báo học tập, sinh viên bắt buộc phải dừng học chương trình thứ hai trong học kỳ tiếp theo. 3.",
+            "metadata": {
+              "section": "tuyen_sinh_nhap_hoc",
+              "year": 2024,
+              "title": "Chương II: Chuyển trường, Chuyển ngành và Học cùng lúc hai chương trình",
+              "char_count": 781,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.035176651305683565,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p04_par_002 | data/raw/student_handbook_corpus.json | page 4]\nĐiều 8. Điều kiện chuyển ngành đào tạo và chuyển cơ sở\n1. Sinh viên chỉ được xem xét chuyển ngành đào tạo sau khi hoàn thành năm học thứ nhất (tương ứng hoàn thành tối thiểu 30 tín chỉ của khối kiến thức đại cương) và phải thỏa mãn đồng thời các điều kiện khắt khe sau:\na) Điểm trúng tuyển đầu vào của sinh viên tại năm tuyển sinh phải bằng hoặc cao hơn điểm chuẩn trúng tuyển của ngành xin chuyển đến trong cùng đợt xét tuyển; b) Điểm trung bình chung tích lũy (CPA) của năm thứ nhất đạt từ 2.50 trở lên trên thang điểm 4.0; c) Sinh viên không bị cảnh báo học tập và không đang trong thời gian chấp hành kỷ luật từ mức khiển trách trở lên; d) Ngành đào tạo xin chuyển đến còn chỉ tiêu tiếp nhận sinh viên theo phê duyệt hàng năm của Hội đồng đào tạo. 2.\n\n[student-handbook-2024_p04_par_003 | data/raw/student_handbook_corpus.json | page 4]\nSinh viên không được phép chuyển ngành trong các trường hợp sau: Đang là sinh viên năm thứ tư; sinh viên trúng tuyển theo diện cử tuyển hoặc hợp đồng đào tạo theo địa chỉ; sinh viên thuộc nhóm ngành nghệ thuật chuyển sang nhóm ngành kỹ thuật, kinh tế. 3. Hồ sơ xin chuyển ngành phải nộp về Phòng Đào tạo trước khi bắt đầu học kỳ mới ít nhất 04 tuần để Hội đồng chuyên môn thẩm định và trình Hiệu trưởng ra quyết định.",
+        "context_ids": [
+          "student-handbook-2024_p04_par_002",
+          "student-handbook-2024_p04_par_003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 4489.61,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Sinh viên có học lực bình thường phải đăng ký tối thiểu và tối đa bao nhiêu tín chỉ trong một học kỳ chính?",
+    "status": "answered",
+    "answer": "Trong mỗi học kỳ chính, sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ [student-handbook-2024_p05_par_004].",
+    "citations": [
+      "student-handbook-2024_p05_par_004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "số tín chỉ tối thiểu tối đa học kỳ chính sinh viên học lực bình thường",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p05_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 5,
+            "text": "Điều 11. Hạn mức số lượng tín chỉ tối thiểu và tối đa trong từng học kỳ\n1. Trong mỗi học kỳ chính (Học kỳ I và Học kỳ II):\na) Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ; b) Sinh viên có học lực xếp loại Yếu hoặc đang trong diện bị cảnh báo học tập mức 1 chỉ được phép đăng ký tối thiểu 10 tín chỉ và tối đa không quá 14 tín chỉ để tập trung cải thiện kết quả; c) Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) được phép nộp đơn xin đăng ký tối đa 28 tín chỉ nếu có sự bảo lãnh của Cố vấn học tập. 2. Trong học kỳ phụ (Học kỳ hè):\na) Sinh viên không bị bắt buộc số tín chỉ tối thiểu;",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Đăng ký học phần và Hạn mức tín chỉ mỗi học kỳ",
+              "char_count": 664,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p05_par_005",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 5,
+            "text": "b) Khối lượng đăng ký tối đa trong học kỳ hè không được vượt quá 10 tín chỉ nhằm đảm bảo chất lượng tiếp thu kiến thức do thời lượng học kỳ hè ngắn và dồn dập. 3. Đối với sinh viên ở học kỳ cuối cùng của khóa học (chuẩn bị làm đồ án tốt nghiệp hoặc thực tập cuối khóa), quy định về số tín chỉ tối thiểu 14 tín chỉ không áp dụng.",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Đăng ký học phần và Hạn mức tín chỉ mỗi học kỳ",
+              "char_count": 328,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 5
+            },
+            "score": 0.03522785458269329,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p10_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 10,
+            "text": "Tổng khối lượng tín chỉ được công nhận chuyển đổi tối đa không vượt quá 50% tổng số tín chỉ của chương trình đào tạo sinh viên đang theo học.",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Chuyển đổi tín chỉ và Công nhận kết quả học tập tương đương",
+              "char_count": 141,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.034590570719602975,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p05_par_004 | data/raw/student_handbook_corpus.json | page 5]\nĐiều 11. Hạn mức số lượng tín chỉ tối thiểu và tối đa trong từng học kỳ\n1. Trong mỗi học kỳ chính (Học kỳ I và Học kỳ II):\na) Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ; b) Sinh viên có học lực xếp loại Yếu hoặc đang trong diện bị cảnh báo học tập mức 1 chỉ được phép đăng ký tối thiểu 10 tín chỉ và tối đa không quá 14 tín chỉ để tập trung cải thiện kết quả; c) Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) được phép nộp đơn xin đăng ký tối đa 28 tín chỉ nếu có sự bảo lãnh của Cố vấn học tập. 2. Trong học kỳ phụ (Học kỳ hè):\na) Sinh viên không bị bắt buộc số tín chỉ tối thiểu;\n\n[student-handbook-2024_p05_par_005 | data/raw/student_handbook_corpus.json | page 5]\nb) Khối lượng đăng ký tối đa trong học kỳ hè không được vượt quá 10 tín chỉ nhằm đảm bảo chất lượng tiếp thu kiến thức do thời lượng học kỳ hè ngắn và dồn dập. 3. Đối với sinh viên ở học kỳ cuối cùng của khóa học (chuẩn bị làm đồ án tốt nghiệp hoặc thực tập cuối khóa), quy định về số tín chỉ tối thiểu 14 tín chỉ không áp dụng.\n\n[student-handbook-2024_p10_par_003 | data/raw/student_handbook_corpus.json | page 10]\nTổng khối lượng tín chỉ được công nhận chuyển đổi tối đa không vượt quá 50% tổng số tín chỉ của chương trình đào tạo sinh viên đang theo học.",
+        "context_ids": [
+          "student-handbook-2024_p05_par_004",
+          "student-handbook-2024_p05_par_005",
+          "student-handbook-2024_p10_par_003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3222.99,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "Nếu rút học phần trong hai tuần đầu tiên của học kỳ, sinh viên được nhận lại bao nhiêu phần trăm học phí?",
+    "status": "answered",
+    "answer": "Nếu sinh viên rút học phần trong hai tuần đầu tiên của học kỳ, sinh viên sẽ được hoàn lại 50% học phí của học phần đó [student-handbook-2024_p06_par_003].",
+    "citations": [
+      "student-handbook-2024_p06_par_003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy định hoàn học phí rút học phần",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p06_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 6,
+            "text": "Điều 12. Quy định về việc rút học phần đã đăng ký\n1. Sau khi kết thúc đợt đăng ký chính thức, sinh viên cảm thấy quá tải hoặc gặp khó khăn cá nhân có thể nộp đơn xin rút bớt học phần trên hệ thống Portal. 2. Thời hạn rút học phần:\na) Đối với học kỳ chính: Sinh viên được quyền rút học phần trong vòng 04 tuần đầu tiên kể từ ngày học kỳ chính thức bắt đầu; b) Đối với học kỳ hè: Sinh viên chỉ được phép rút học phần trong tuần đầu tiên của khóa hè. 3. Điều kiện rút học phần:\na) Sau khi rút học phần, số lượng tín chỉ còn lại trong học kỳ chính của sinh viên không được thấp hơn mức tối thiểu quy định (không dưới 14 tín chỉ với sinh viên bình thường, và không dưới 10 tín chỉ với sinh viên bị cảnh báo học tập); b) Học phần được rút hợp lệ sẽ nhận điểm 'W' (Withdrawal) trên bảng điểm học vụ.",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Rút học phần, Hủy học phần và Học cải thiện điểm",
+              "char_count": 792,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2025_p22_par_004",
+            "source_id": "student-handbook-2025",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 22,
+            "text": "Điều 45. Chính sách hoàn phí và bảo lưu tài chính mới áp dụng năm 2025\n1. Trường hợp sinh viên có đơn xin thôi học hoặc tạm dừng học tập hợp lệ trong năm học 2025:\na) Nộp đơn trước ngày khai giảng chính thức của học kỳ: Được hoàn lại 100% số học phí đã đóng; b) Nộp đơn trong vòng 02 tuần đầu tiên của học kỳ: Được hoàn lại 70% số học phí đã đóng (năm 2024 chỉ hoàn 50%); c) Nộp đơn từ tuần thứ 3 đến hết tuần thứ 4 của học kỳ: Được hoàn lại 40% học phí hoặc được phép bảo lưu 60% số tiền học phí đã đóng sang học kỳ tiếp theo khi quay trở lại học; d) Nộp đơn sau tuần thứ 4 của học kỳ: Không được hoàn trả học phí và không được bảo lưu tài chính. 2.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2025,
+              "title": "Chương V: Quy định định mức Học phí và Chính sách hoàn phí năm 2025",
+              "char_count": 650,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.03522785458269329,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p06_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 6,
+            "text": "Điểm 'W' không tính vào điểm trung bình chung học kỳ (GPA) hay điểm trung bình tích lũy (CPA). c) Chính sách tài chính: Sinh viên rút học phần trong 2 tuần đầu được hoàn lại 50% học phí của học phần đó; rút từ tuần thứ 3 đến tuần thứ 4 không được hoàn trả học phí nhưng không bị ghi điểm phạt.",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Rút học phần, Hủy học phần và Học cải thiện điểm",
+              "char_count": 293,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.035176651305683565,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p06_par_002 | data/raw/student_handbook_corpus.json | page 6]\nĐiều 12. Quy định về việc rút học phần đã đăng ký\n1. Sau khi kết thúc đợt đăng ký chính thức, sinh viên cảm thấy quá tải hoặc gặp khó khăn cá nhân có thể nộp đơn xin rút bớt học phần trên hệ thống Portal. 2. Thời hạn rút học phần:\na) Đối với học kỳ chính: Sinh viên được quyền rút học phần trong vòng 04 tuần đầu tiên kể từ ngày học kỳ chính thức bắt đầu; b) Đối với học kỳ hè: Sinh viên chỉ được phép rút học phần trong tuần đầu tiên của khóa hè. 3. Điều kiện rút học phần:\na) Sau khi rút học phần, số lượng tín chỉ còn lại trong học kỳ chính của sinh viên không được thấp hơn mức tối thiểu quy định (không dưới 14 tín chỉ với sinh viên bình thường, và không dưới 10 tín chỉ với sinh viên bị cảnh báo học tập); b) Học phần được rút hợp lệ sẽ nhận điểm 'W' (Withdrawal) trên bảng điểm học vụ.\n\n[student-handbook-2024_p06_par_003 | data/raw/student_handbook_corpus.json | page 6]\nĐiểm 'W' không tính vào điểm trung bình chung học kỳ (GPA) hay điểm trung bình tích lũy (CPA). c) Chính sách tài chính: Sinh viên rút học phần trong 2 tuần đầu được hoàn lại 50% học phí của học phần đó; rút từ tuần thứ 3 đến tuần thứ 4 không được hoàn trả học phí nhưng không bị ghi điểm phạt.",
+        "context_ids": [
+          "student-handbook-2024_p06_par_002",
+          "student-handbook-2024_p06_par_003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2833.32,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Sinh viên vắng mặt quá bao nhiêu phần trăm số tiết lý thuyết thì sẽ bị cấm thi kết thúc học phần?",
+    "status": "answered",
+    "answer": "Sinh viên sẽ bị cấm thi kết thúc học phần nếu nghỉ học vượt quá 20% tổng số tiết lý thuyết mà không có lý do bất khả kháng được Ban Giám hiệu chấp thuận [student-handbook-2024_p07_par_003].",
+    "citations": [
+      "student-handbook-2024_p07_par_003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy định vắng mặt cấm thi kết thúc học phần",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p07_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 7,
+            "text": "Điều 15. Tiêu chuẩn chuyên cần và điều kiện tiên quyết để được dự thi\n1. Sinh viên phải đảm bảo tỷ lệ tham gia giờ học trên lớp tối thiểu theo quy định sau:\na) Phải tham dự tối thiểu 80% tổng số giờ giảng lý thuyết trên lớp của học phần (tương đương không được nghỉ quá 20% tổng số tiết học); b) Phải tham dự đủ 100% các buổi thực hành, thí nghiệm trong phòng lab hoặc đi thực tế ngoài hiện trường. Nếu vắng mặt có lý do chính đáng, sinh viên phải nộp đơn và đăng ký học bù với lớp khác trước khi kết thúc học kỳ. 2. Cấm thi kết thúc học phần:\na) Sinh viên nghỉ học vượt quá 20% tổng số tiết lý thuyết mà không có lý do bất khả kháng được Ban Giám hiệu chấp thuận sẽ bị giảng viên lập biên bản cấm thi kết thúc học phần;",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Lớp học phần, Điểm danh và Điều kiện dự thi kết thúc học phần",
+              "char_count": 720,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p07_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 7,
+            "text": "b) Sinh viên có điểm đánh giá quá trình (điểm chuyên cần kết hợp điểm kiểm tra giữa kỳ) dưới 3.0 điểm trên thang điểm 10 sẽ bị tước quyền dự thi kết thúc học phần; c) Trường hợp bị cấm thi, sinh viên nhận điểm 0 cho phần thi kết thúc học phần và điểm tổng kết học phần nhận điểm F (phải đăng ký học lại từ đầu). 3. Danh sách sinh viên bị cấm thi được Giảng viên nộp về Văn phòng Khoa và công bố công khai cho sinh viên trước ngày bắt đầu kỳ thi tối thiểu 05 ngày làm việc để sinh viên có quyền khiếu nại nếu có sai sót dữ liệu.",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Lớp học phần, Điểm danh và Điều kiện dự thi kết thúc học phần",
+              "char_count": 527,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p14_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 14,
+            "text": "Thời hạn công bố điểm thi kết thúc học phần: Chậm nhất 10 ngày làm việc kể từ ngày ca thi kết thúc, điểm thi phải được nhập lên hệ thống Portal.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Chấm thi, Phúc khảo bài thi và Khiếu nại điểm số",
+              "char_count": 144,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.03492063492063492,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p07_par_003 | data/raw/student_handbook_corpus.json | page 7]\nĐiều 15. Tiêu chuẩn chuyên cần và điều kiện tiên quyết để được dự thi\n1. Sinh viên phải đảm bảo tỷ lệ tham gia giờ học trên lớp tối thiểu theo quy định sau:\na) Phải tham dự tối thiểu 80% tổng số giờ giảng lý thuyết trên lớp của học phần (tương đương không được nghỉ quá 20% tổng số tiết học); b) Phải tham dự đủ 100% các buổi thực hành, thí nghiệm trong phòng lab hoặc đi thực tế ngoài hiện trường. Nếu vắng mặt có lý do chính đáng, sinh viên phải nộp đơn và đăng ký học bù với lớp khác trước khi kết thúc học kỳ. 2. Cấm thi kết thúc học phần:\na) Sinh viên nghỉ học vượt quá 20% tổng số tiết lý thuyết mà không có lý do bất khả kháng được Ban Giám hiệu chấp thuận sẽ bị giảng viên lập biên bản cấm thi kết thúc học phần;\n\n[student-handbook-2024_p14_par_003 | data/raw/student_handbook_corpus.json | page 14]\nThời hạn công bố điểm thi kết thúc học phần: Chậm nhất 10 ngày làm việc kể từ ngày ca thi kết thúc, điểm thi phải được nhập lên hệ thống Portal.",
+        "context_ids": [
+          "student-handbook-2024_p07_par_003",
+          "student-handbook-2024_p14_par_003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2562.73,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Sinh viên bị cảnh báo học tập mức 1 sẽ bị giới hạn số lượng tín chỉ đăng ký ở học kỳ kế tiếp trong khoảng nào?",
+    "status": "answered",
+    "answer": "Sinh viên bị cảnh báo học tập mức 1 sẽ bị giới hạn số lượng tín chỉ đăng ký ở học kỳ kế tiếp trong khoảng từ 10 đến 14 tín chỉ [student-handbook-2024_p09_par_003], [student-handbook-2024_p05_par_004].",
+    "citations": [
+      "student-handbook-2024_p09_par_003",
+      "student-handbook-2024_p05_par_004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "giới hạn tín chỉ sinh viên cảnh báo học tập mức 1",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p09_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 9,
+            "text": "d) Không đăng ký đủ số lượng tín chỉ tối thiểu theo quy định trong học kỳ chính mà không có sự cho phép của Phòng Đào tạo. 3. Hệ thống cảnh báo gồm 03 mức độ liên tiếp:\n- Cảnh báo học tập mức 1 (CBHT 1): Gửi thông báo đến sinh viên và Cố vấn học tập, giới hạn số tín chỉ đăng ký học kỳ tới từ 10 đến 14 TC; - Cảnh báo học tập mức 2 (CBHT 2): Gửi thông báo chính thức về gia đình sinh viên, bắt buộc sinh viên phải tham gia phiên tư vấn học vụ đặc biệt; - Cảnh báo học tập mức 3 (CBHT 3): Đưa vào danh sách xem xét buộc thôi học.",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Xử lý học vụ, Cảnh báo học tập và Buộc thôi học",
+              "char_count": 528,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p09_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 9,
+            "text": "Điều 18. Tiêu chí xử lý học vụ và các mức độ cảnh báo học tập\n1. Cảnh báo học tập (CBHT) là biện pháp nhắc nhở nhằm giúp sinh viên chấn chỉnh tinh thần học tập và có kế hoạch cải thiện kết quả. Việc xét cảnh báo học vụ được thực hiện định kỳ vào cuối mỗi học kỳ chính. 2. Sinh viên bị xử lý cảnh báo học tập nếu rơi vào một trong các trường hợp sau:\na) Điểm trung bình chung học kỳ (GPA) đạt dưới 1.20 đối với học kỳ đầu tiên của khóa học; đạt dưới 1.40 đối với các học kỳ tiếp theo; b) Điểm trung bình chung tích lũy (CPA) đạt dưới 1.60 đối với sinh viên năm thứ nhất; dưới 1.80 đối với sinh viên năm thứ hai; dưới 2.00 đối với sinh viên từ năm thứ ba trở đi; c) Tổng số tín chỉ nợ đọng không đạt (tích lũy điểm F) vượt quá 24 tín chỉ tính từ đầu khóa học;",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Xử lý học vụ, Cảnh báo học tập và Buộc thôi học",
+              "char_count": 757,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.03522785458269329,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p05_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 5,
+            "text": "Điều 11. Hạn mức số lượng tín chỉ tối thiểu và tối đa trong từng học kỳ\n1. Trong mỗi học kỳ chính (Học kỳ I và Học kỳ II):\na) Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ; b) Sinh viên có học lực xếp loại Yếu hoặc đang trong diện bị cảnh báo học tập mức 1 chỉ được phép đăng ký tối thiểu 10 tín chỉ và tối đa không quá 14 tín chỉ để tập trung cải thiện kết quả; c) Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) được phép nộp đơn xin đăng ký tối đa 28 tín chỉ nếu có sự bảo lãnh của Cố vấn học tập. 2. Trong học kỳ phụ (Học kỳ hè):\na) Sinh viên không bị bắt buộc số tín chỉ tối thiểu;",
+            "metadata": {
+              "section": "to_chuc_dao_tao_tin_chi",
+              "year": 2024,
+              "title": "Chương III: Đăng ký học phần và Hạn mức tín chỉ mỗi học kỳ",
+              "char_count": 664,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.035176651305683565,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p09_par_003 | data/raw/student_handbook_corpus.json | page 9]\nd) Không đăng ký đủ số lượng tín chỉ tối thiểu theo quy định trong học kỳ chính mà không có sự cho phép của Phòng Đào tạo. 3. Hệ thống cảnh báo gồm 03 mức độ liên tiếp:\n- Cảnh báo học tập mức 1 (CBHT 1): Gửi thông báo đến sinh viên và Cố vấn học tập, giới hạn số tín chỉ đăng ký học kỳ tới từ 10 đến 14 TC; - Cảnh báo học tập mức 2 (CBHT 2): Gửi thông báo chính thức về gia đình sinh viên, bắt buộc sinh viên phải tham gia phiên tư vấn học vụ đặc biệt; - Cảnh báo học tập mức 3 (CBHT 3): Đưa vào danh sách xem xét buộc thôi học.\n\n[student-handbook-2024_p05_par_004 | data/raw/student_handbook_corpus.json | page 5]\nĐiều 11. Hạn mức số lượng tín chỉ tối thiểu và tối đa trong từng học kỳ\n1. Trong mỗi học kỳ chính (Học kỳ I và Học kỳ II):\na) Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ; b) Sinh viên có học lực xếp loại Yếu hoặc đang trong diện bị cảnh báo học tập mức 1 chỉ được phép đăng ký tối thiểu 10 tín chỉ và tối đa không quá 14 tín chỉ để tập trung cải thiện kết quả; c) Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) được phép nộp đơn xin đăng ký tối đa 28 tín chỉ nếu có sự bảo lãnh của Cố vấn học tập. 2. Trong học kỳ phụ (Học kỳ hè):\na) Sinh viên không bị bắt buộc số tín chỉ tối thiểu;",
+        "context_ids": [
+          "student-handbook-2024_p09_par_003",
+          "student-handbook-2024_p05_par_004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 1792.48,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Điểm tổng kết học phần theo thang điểm 10 từ 8.5 đến 8.9 sẽ được quy đổi sang điểm chữ và thang điểm 4 như thế nào?",
+    "status": "answered",
+    "answer": "Điểm tổng kết học phần từ 8.5 đến 8.9 theo thang điểm 10 sẽ được quy đổi sang điểm chữ là A và thang điểm 4 là 3.7 [student-handbook-2024_p12_par_002].",
+    "citations": [
+      "student-handbook-2024_p12_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy đổi điểm học phần thang điểm 10 sang điểm chữ và thang điểm 4",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p12_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 12,
+            "text": "Điều 24. Quy đổi điểm số giữa thang điểm 10, thang điểm chữ và thang điểm 4\n1. Điểm tổng kết học phần được tính theo thang điểm 10 (làm tròn đến một chữ số thập phân), sau đó được hệ thống tự động quy đổi sang thang điểm chữ và thang điểm 4 theo bảng chuẩn sau:\na) Đạt loại Xuất sắc:\n- Điểm 10 từ 9.0 đến 10.0 -> Điểm chữ: A+ -> Thang điểm 4: 4.0; b) Đạt loại Giỏi:\n- Điểm 10 từ 8.5 đến 8.9 -> Điểm chữ: A -> Thang điểm 4: 3.7; - Điểm 10 từ 8.0 đến 8.4 -> Điểm chữ: B+ -> Thang điểm 4: 3.5; c) Đạt loại Khá:\n- Điểm 10 từ 7.0 đến 7.9 -> Điểm chữ: B -> Thang điểm 4: 3.0; - Điểm 10 từ 6.5 đến 6.9 -> Điểm chữ: C+ -> Thang điểm 4: 2.5; d) Đạt loại Trung bình:\n- Điểm 10 từ 5.5 đến 6.4 -> Điểm chữ: C -> Thang điểm 4: 2.0; - Điểm 10 từ 5.0 đến 5.4 -> Điểm chữ: D+ -> Thang điểm 4: 1.5;",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Thang điểm 10, Thang điểm chữ và Thang điểm 4",
+              "char_count": 781,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p12_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 12,
+            "text": "e) Đạt loại Trung bình yếu (vừa đủ qua môn):\n- Điểm 10 từ 4.0 đến 4.9 -> Điểm chữ: D -> Thang điểm 4: 1.0; f) Không đạt (trượt môn, phải học lại):\n- Điểm 10 dưới 4.0 -> Điểm chữ: F -> Thang điểm 4: 0.0.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Thang điểm 10, Thang điểm chữ và Thang điểm 4",
+              "char_count": 202,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p11_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 11,
+            "text": "Điều 22. Cấu trúc điểm học phần và tỷ trọng thành phần\n1. Kết quả học tập của sinh viên trong một học phần được đánh giá toàn diện qua nhiều thành phần điểm độc lập, phản ánh suốt quá trình học tập và năng lực cuối kỳ. 2. Các thành phần điểm cơ bản của một học phần tiêu chuẩn gồm:\na) Điểm đánh giá bộ phận (điểm quá trình): Chiếm từ 40% đến 50% trọng số điểm tổng kết học phần, bao gồm:\n- Điểm chuyên cần và ý thức tham gia lớp học: 10%; - Điểm bài tập thường xuyên, tiểu luận hoặc thuyết trình: 15% đến 20%; - Điểm kiểm tra giữa kỳ (thi viết, trắc nghiệm hoặc bài tập lớn): 15% đến 20%. b) Điểm thi kết thúc học phần: Chiếm từ 50% đến 60% trọng số điểm tổng kết học phần. 3.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Đánh giá kết quả học tập và Thành phần điểm học phần",
+              "char_count": 676,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.03380681818181818,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p12_par_002 | data/raw/student_handbook_corpus.json | page 12]\nĐiều 24. Quy đổi điểm số giữa thang điểm 10, thang điểm chữ và thang điểm 4\n1. Điểm tổng kết học phần được tính theo thang điểm 10 (làm tròn đến một chữ số thập phân), sau đó được hệ thống tự động quy đổi sang thang điểm chữ và thang điểm 4 theo bảng chuẩn sau:\na) Đạt loại Xuất sắc:\n- Điểm 10 từ 9.0 đến 10.0 -> Điểm chữ: A+ -> Thang điểm 4: 4.0; b) Đạt loại Giỏi:\n- Điểm 10 từ 8.5 đến 8.9 -> Điểm chữ: A -> Thang điểm 4: 3.7; - Điểm 10 từ 8.0 đến 8.4 -> Điểm chữ: B+ -> Thang điểm 4: 3.5; c) Đạt loại Khá:\n- Điểm 10 từ 7.0 đến 7.9 -> Điểm chữ: B -> Thang điểm 4: 3.0; - Điểm 10 từ 6.5 đến 6.9 -> Điểm chữ: C+ -> Thang điểm 4: 2.5; d) Đạt loại Trung bình:\n- Điểm 10 từ 5.5 đến 6.4 -> Điểm chữ: C -> Thang điểm 4: 2.0; - Điểm 10 từ 5.0 đến 5.4 -> Điểm chữ: D+ -> Thang điểm 4: 1.5;\n\n[student-handbook-2024_p12_par_003 | data/raw/student_handbook_corpus.json | page 12]\ne) Đạt loại Trung bình yếu (vừa đủ qua môn):\n- Điểm 10 từ 4.0 đến 4.9 -> Điểm chữ: D -> Thang điểm 4: 1.0; f) Không đạt (trượt môn, phải học lại):\n- Điểm 10 dưới 4.0 -> Điểm chữ: F -> Thang điểm 4: 0.0.",
+        "context_ids": [
+          "student-handbook-2024_p12_par_002",
+          "student-handbook-2024_p12_par_003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 5108.7,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Thời hạn nộp đơn xin phúc khảo bài thi kết thúc học phần là bao nhiêu ngày kể từ khi công bố điểm?",
+    "status": "answered",
+    "answer": "Thời hạn nộp đơn xin phúc khảo bài thi kết thúc học phần là trong vòng 07 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên Portal học vụ [student-handbook-2024_p14_par_004].",
+    "citations": [
+      "student-handbook-2024_p14_par_004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời hạn nộp đơn phúc khảo bài thi kết thúc học phần",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p14_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 14,
+            "text": "Điều 29. Quyền phúc khảo bài thi và giải quyết khiếu nại của sinh viên\n1. Sinh viên có quyền nộp đơn xin phúc khảo bài thi kết thúc học phần nếu nhận thấy điểm số công bố chưa phản ánh đúng bài làm thực tế của mình. 2. Thời hạn nộp đơn phúc khảo: Trong vòng 07 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên Portal học vụ. Sau thời hạn này, Nhà trường không tiếp nhận bất kỳ đơn phúc khảo nào. 3. Lệ phí phúc khảo là 50.000 VNĐ/bài thi. Nếu sau khi phúc khảo điểm thi được điều chỉnh tăng từ 0.5 điểm trở lên do lỗi chấm sót hoặc cộng nhầm điểm, sinh viên sẽ được hoàn lại 100% lệ phí phúc khảo đã nộp. 4. Hội đồng phúc khảo tiến hành rút bài thi, kiểm tra số phách và phân công 02 giảng viên độc lập chấm lại.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Chấm thi, Phúc khảo bài thi và Khiếu nại điểm số",
+              "char_count": 726,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p14_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 14,
+            "text": "Thời hạn công bố điểm thi kết thúc học phần: Chậm nhất 10 ngày làm việc kể từ ngày ca thi kết thúc, điểm thi phải được nhập lên hệ thống Portal.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Chấm thi, Phúc khảo bài thi và Khiếu nại điểm số",
+              "char_count": 144,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.035176651305683565,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p14_par_005",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 14,
+            "text": "Kết quả phúc khảo được công bố trong vòng 15 ngày làm việc và là điểm chính thức cuối cùng của sinh viên.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Chấm thi, Phúc khảo bài thi và Khiếu nại điểm số",
+              "char_count": 105,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 5
+            },
+            "score": 0.03497983870967742,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p14_par_004 | data/raw/student_handbook_corpus.json | page 14]\nĐiều 29. Quyền phúc khảo bài thi và giải quyết khiếu nại của sinh viên\n1. Sinh viên có quyền nộp đơn xin phúc khảo bài thi kết thúc học phần nếu nhận thấy điểm số công bố chưa phản ánh đúng bài làm thực tế của mình. 2. Thời hạn nộp đơn phúc khảo: Trong vòng 07 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên Portal học vụ. Sau thời hạn này, Nhà trường không tiếp nhận bất kỳ đơn phúc khảo nào. 3. Lệ phí phúc khảo là 50.000 VNĐ/bài thi. Nếu sau khi phúc khảo điểm thi được điều chỉnh tăng từ 0.5 điểm trở lên do lỗi chấm sót hoặc cộng nhầm điểm, sinh viên sẽ được hoàn lại 100% lệ phí phúc khảo đã nộp. 4. Hội đồng phúc khảo tiến hành rút bài thi, kiểm tra số phách và phân công 02 giảng viên độc lập chấm lại.\n\n[student-handbook-2024_p14_par_003 | data/raw/student_handbook_corpus.json | page 14]\nThời hạn công bố điểm thi kết thúc học phần: Chậm nhất 10 ngày làm việc kể từ ngày ca thi kết thúc, điểm thi phải được nhập lên hệ thống Portal.\n\n[student-handbook-2024_p14_par_005 | data/raw/student_handbook_corpus.json | page 14]\nKết quả phúc khảo được công bố trong vòng 15 ngày làm việc và là điểm chính thức cuối cùng của sinh viên.",
+        "context_ids": [
+          "student-handbook-2024_p14_par_004",
+          "student-handbook-2024_p14_par_003",
+          "student-handbook-2024_p14_par_005"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 7990.79,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Sinh viên nhờ người khác thi hộ lần đầu tiên sẽ bị áp dụng hình thức xử lý kỷ luật nào?",
+    "status": "answered",
+    "answer": "Sinh viên nhờ người khác thi hộ lần đầu tiên sẽ bị kỷ luật đình chỉ học tập 01 năm học (buộc nghỉ học 2 học kỳ chính) và thông báo công khai toàn trường [student-handbook-2024_p16_par_004].",
+    "citations": [
+      "student-handbook-2024_p16_par_004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "xử lý kỷ luật sinh viên thi hộ lần đầu",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p16_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 16,
+            "text": "Điều 33. Xử lý hành vi thi hộ, nhờ người thi hộ và làm giả giấy tờ\n1. Hành vi thi hộ hoặc nhờ người khác thi hộ là vi phạm đặc biệt nghiêm trọng tính liêm chính học thuật. Cả người nhờ thi hộ và người đi thi hộ (nếu là sinh viên của trường) đều bị xử lý kỷ luật theo khung sau:\na) Vi phạm lần thứ nhất: Bị kỷ luật đình chỉ học tập 01 năm học (buộc nghỉ học 2 học kỳ chính) và thông báo công khai toàn trường;\nb) Vi phạm lần thứ hai: Bị kỷ luật ở mức buộc thôi học vĩnh viễn và gửi văn bản thông báo về địa phương và gia đình.\n2. Nếu người thi hộ không phải là sinh viên của trường, Nhà trường sẽ chuyển giao toàn bộ hồ sơ và bằng chứng cho cơ quan công an xử lý theo quy định của pháp luật về hành vi gian lận và sử dụng giấy tờ giả.",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Xử lý vi phạm quy chế thi và Kỷ luật phòng thi",
+              "char_count": 733,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p16_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 16,
+            "text": "Điều 32. Các mức độ xử lý kỷ luật đối với sinh viên vi phạm quy chế thi\n1. Sinh viên vi phạm quy chế phòng thi tùy theo tính chất và mức độ sẽ bị xử lý theo một trong các hình thức kỷ luật sau:\na) Khiển trách phòng thi: Áp dụng đối với sinh viên phạm lỗi một lần như nhìn bài, trao đổi với người khác hoặc quay cóp sau khi đã được nhắc nhở. Sinh viên bị khiển trách trong môn thi nào sẽ bị trừ 25% tổng số điểm của bài thi môn đó; b) Cảnh cáo phòng thi: Áp dụng đối với sinh viên đã bị khiển trách mà tái phạm trong cùng một buổi thi, hoặc mang tài liệu trái phép vào chỗ ngồi nhưng chưa sử dụng, hoặc đưa bài thi cho người khác chép. Sinh viên bị cảnh cáo sẽ bị trừ 50% số điểm bài thi môn đó;",
+            "metadata": {
+              "section": "danh_gia_hoc_phan_thi_cu",
+              "year": 2024,
+              "title": "Chương IV: Xử lý vi phạm quy chế thi và Kỷ luật phòng thi",
+              "char_count": 694,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p29_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 29,
+            "text": "Điều 59. Các hình thức kỷ luật đối với sinh viên vi phạm\n1. Tùy theo tính chất, mức độ và hậu quả của hành vi vi phạm, Hội đồng Kỷ luật sinh viên sẽ xem xét áp dụng một trong các hình thức kỷ luật sau:\na) Khiển trách: Áp dụng đối với sinh viên vi phạm lần đầu nhưng ở mức độ nhẹ. Sinh viên bị khiển trách sẽ bị trừ 10 điểm rèn luyện trong học kỳ vi phạm; b) Cảnh cáo: Áp dụng đối với sinh viên đã bị khiển trách mà tái phạm, hoặc vi phạm các lỗi nghiêm trọng như gian lận có tổ chức trong kiểm tra giữa kỳ, đánh nhau trong trường nhưng chưa gây thương tích nặng. Sinh viên bị cảnh cáo bị hạ 1 bậc xếp loại rèn luyện và thông báo về gia đình; c) Đình chỉ học tập có thời hạn:\n- Đình chỉ 01 học kỳ chính: Áp dụng cho hành vi thi hộ lần 1, tàng trữ tài liệu cấm, đánh nhau gây thương tích;",
+            "metadata": {
+              "section": "khen_thuong_ky_luat_khieu_nai",
+              "year": 2024,
+              "title": "Chương VII: Kỷ luật sinh viên và Các hình thức kỷ luật từ Khiển trách đến Buộc thôi học",
+              "char_count": 786,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.034623015873015875,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p16_par_004 | data/raw/student_handbook_corpus.json | page 16]\nĐiều 33. Xử lý hành vi thi hộ, nhờ người thi hộ và làm giả giấy tờ\n1. Hành vi thi hộ hoặc nhờ người khác thi hộ là vi phạm đặc biệt nghiêm trọng tính liêm chính học thuật. Cả người nhờ thi hộ và người đi thi hộ (nếu là sinh viên của trường) đều bị xử lý kỷ luật theo khung sau:\na) Vi phạm lần thứ nhất: Bị kỷ luật đình chỉ học tập 01 năm học (buộc nghỉ học 2 học kỳ chính) và thông báo công khai toàn trường;\nb) Vi phạm lần thứ hai: Bị kỷ luật ở mức buộc thôi học vĩnh viễn và gửi văn bản thông báo về địa phương và gia đình.\n2. Nếu người thi hộ không phải là sinh viên của trường, Nhà trường sẽ chuyển giao toàn bộ hồ sơ và bằng chứng cho cơ quan công an xử lý theo quy định của pháp luật về hành vi gian lận và sử dụng giấy tờ giả.",
+        "context_ids": [
+          "student-handbook-2024_p16_par_004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3035.43,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Đơn giá học phí cho 01 tín chỉ ngành Công nghệ thông tin theo quy định năm 2024 là bao nhiêu?",
+    "status": "answered",
+    "answer": "Đơn giá học phí cho 01 tín chỉ ngành Công nghệ thông tin theo quy định năm 2024 là 520.000 VNĐ/tín chỉ [student-handbook-2024_p17_par_002].",
+    "citations": [
+      "student-handbook-2024_p17_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "đơn giá học phí 1 tín chỉ ngành Công nghệ thông tin 2024",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p17_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 17,
+            "text": "Điều 34. Định mức học phí tín chỉ và phương thức thanh toán năm học 2024\n1. Học phí của sinh viên hệ chính quy được tính theo khối lượng tín chỉ thực tế mà sinh viên đăng ký trong từng học kỳ. Mức học phí cho 01 tín chỉ trong năm học 2024 áp dụng như sau:\na) Khối ngành Khoa học xã hội và Kinh tế: 450.000 VNĐ / tín chỉ; b) Khối ngành Khoa học tự nhiên, Công nghệ thông tin và Kỹ thuật: 520.000 VNĐ / tín chỉ; c) Các học phần thực hành, thí nghiệm chuyên sâu có phụ thu chi phí tiêu hao vật tư: thêm 15% đơn giá tín chỉ lý thuyết; d) Chương trình đào tạo chất lượng cao: 850.000 VNĐ / tín chỉ. 2.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Học phí, Định mức tín chỉ và Thời hạn đóng học phí",
+              "char_count": 596,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2025_p22_par_002",
+            "source_id": "student-handbook-2025",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 22,
+            "text": "Điều 44. Biểu mức học phí tín chỉ cập nhật cho năm học 2025 - 2026\n1. Căn cứ lộ trình tự chủ đại học và Nghị định số 81/2021/NĐ-CP của Chính phủ, Nhà trường công bố biểu mức học phí tín chỉ cập nhật áp dụng từ Học kỳ I năm học 2025:\na) Khối ngành Khoa học xã hội, Kinh tế và Luật: 490.000 VNĐ / tín chỉ (điều chỉnh tăng 8.8% so với năm 2024); b) Khối ngành Kỹ thuật, Công nghệ thông tin, Khoa học dữ liệu và Trí tuệ nhân tạo: 580.000 VNĐ / tín chỉ (điều chỉnh tăng 11.5% so với năm 2024); c) Chương trình đào tạo Kỹ sư chuyên sâu đặc thù và Chất lượng cao: 950.000 VNĐ / tín chỉ; d) Học phí các học phần kỹ năng mềm và thực hành chuyển đổi số: Áp dụng mức cố định 600.000 VNĐ / tín chỉ. 2.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2025,
+              "title": "Chương V: Quy định định mức Học phí và Chính sách hoàn phí năm 2025",
+              "char_count": 689,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p19_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 19,
+            "text": "Điều 38. Quỹ học bổng và các mức học bổng khuyến khích học tập năm 2024\n1. Quỹ học bổng Khuyến khích học tập (KKHT) được trích tối thiểu 8% từ nguồn thu học phí hệ chính quy hàng năm để khen thưởng các sinh viên có thành tích xuất sắc và giỏi trong học tập và rèn luyện.\n2. Học bổng KKHT được xét cấp theo từng học kỳ chính (Học kỳ I và Học kỳ II) với 03 định mức cụ thể năm 2024 như sau:\na) Mức học bổng loại Xuất sắc: Bằng 120% mức học phí chuẩn của ngành học trong học kỳ;\nb) Mức học bổng loại Giỏi: Bằng 100% mức học phí chuẩn của ngành học trong học kỳ;\nc) Mức học bổng loại Khá: Bằng 80% mức học phí chuẩn của ngành học trong học kỳ.\n3. Không xét cấp học bổng KKHT trong học kỳ hè và các học kỳ sinh viên đi trao đổi tín chỉ ở trường đại học khác có học bổng toàn phần.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Học bổng khuyến khích học tập và Tiêu chí xét duyệt",
+              "char_count": 775,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.033566433566433566,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p17_par_002 | data/raw/student_handbook_corpus.json | page 17]\nĐiều 34. Định mức học phí tín chỉ và phương thức thanh toán năm học 2024\n1. Học phí của sinh viên hệ chính quy được tính theo khối lượng tín chỉ thực tế mà sinh viên đăng ký trong từng học kỳ. Mức học phí cho 01 tín chỉ trong năm học 2024 áp dụng như sau:\na) Khối ngành Khoa học xã hội và Kinh tế: 450.000 VNĐ / tín chỉ; b) Khối ngành Khoa học tự nhiên, Công nghệ thông tin và Kỹ thuật: 520.000 VNĐ / tín chỉ; c) Các học phần thực hành, thí nghiệm chuyên sâu có phụ thu chi phí tiêu hao vật tư: thêm 15% đơn giá tín chỉ lý thuyết; d) Chương trình đào tạo chất lượng cao: 850.000 VNĐ / tín chỉ. 2.",
+        "context_ids": [
+          "student-handbook-2024_p17_par_002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2849.17,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Mức tiền thưởng học bổng khuyến khích học tập loại Giỏi trong năm học 2024 được tính bằng bao nhiêu phần trăm mức học phí?",
+    "status": "answered",
+    "answer": "Trong năm học 2024, mức tiền thưởng học bổng khuyến khích học tập loại Giỏi được tính bằng 100% mức học phí chuẩn của ngành học trong học kỳ [student-handbook-2024_p19_par_002].",
+    "citations": [
+      "student-handbook-2024_p19_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức tiền thưởng học bổng khuyến khích học tập loại Giỏi 2024",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p19_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 19,
+            "text": "Điều 38. Quỹ học bổng và các mức học bổng khuyến khích học tập năm 2024\n1. Quỹ học bổng Khuyến khích học tập (KKHT) được trích tối thiểu 8% từ nguồn thu học phí hệ chính quy hàng năm để khen thưởng các sinh viên có thành tích xuất sắc và giỏi trong học tập và rèn luyện.\n2. Học bổng KKHT được xét cấp theo từng học kỳ chính (Học kỳ I và Học kỳ II) với 03 định mức cụ thể năm 2024 như sau:\na) Mức học bổng loại Xuất sắc: Bằng 120% mức học phí chuẩn của ngành học trong học kỳ;\nb) Mức học bổng loại Giỏi: Bằng 100% mức học phí chuẩn của ngành học trong học kỳ;\nc) Mức học bổng loại Khá: Bằng 80% mức học phí chuẩn của ngành học trong học kỳ.\n3. Không xét cấp học bổng KKHT trong học kỳ hè và các học kỳ sinh viên đi trao đổi tín chỉ ở trường đại học khác có học bổng toàn phần.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Học bổng khuyến khích học tập và Tiêu chí xét duyệt",
+              "char_count": 775,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2025_p21_par_002",
+            "source_id": "student-handbook-2025",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 21,
+            "text": "Điều 42. Cải cách định mức và cơ cấu Quỹ học bổng khuyến khích học tập năm 2025\n1. Nhằm nâng cao động lực thi đua học thuật và nghiên cứu sáng tạo, từ học kỳ I năm học 2025, Nhà trường nâng tỷ lệ trích lập Quỹ học bổng KKHT từ 8% lên mức 10% tổng nguồn thu học phí chính quy. 2. Điều chỉnh mức tiền thưởng học bổng KKHT năm 2025 áp dụng các mức trần mới như sau:\na) Học bổng loại Xuất sắc (Cực kỳ xuất sắc): Bằng 130% mức học phí học kỳ (tăng 10% so với quy định năm 2024); b) Học bổng loại Giỏi: Bằng 110% mức học phí học kỳ (tăng 10% so với quy định năm 2024); c) Học bổng loại Khá: Bằng 85% mức học phí học kỳ (tăng 5% so với quy định năm 2024). 3.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2025,
+              "title": "Chương V: Cập nhật quy định Học bổng Khuyến khích học tập Niên khóa mới 2025",
+              "char_count": 651,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p19_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 19,
+            "text": "Điều 39. Điều kiện và nguyên tắc phân bổ học bổng KKHT\n1. Điều kiện tiên quyết để sinh viên được đưa vào danh sách xét học bổng KKHT:\na) Phải đăng ký và tích lũy tối thiểu 15 tín chỉ trong học kỳ chính đang xét (không tính các tín chỉ học lại hoặc học cải thiện); b) Điểm rèn luyện của học kỳ xét học bổng phải đạt từ loại Tốt (80 điểm trở lên); c) Không có bất kỳ học phần nào bị điểm F (trượt môn) hoặc bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét học bổng. 2. Tiêu chuẩn phân loại học bổng:\n- Học bổng loại Xuất sắc: Điểm trung bình học kỳ GPA đạt từ 3.60 đến 4.00 VÀ Điểm rèn luyện đạt từ 90 điểm trở lên (loại Xuất sắc); - Học bổng loại Giỏi: Điểm trung bình học kỳ GPA đạt từ 3.20 đến 3.59 VÀ Điểm rèn luyện đạt từ 80 điểm trở lên (loại Tốt);",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Học bổng khuyến khích học tập và Tiêu chí xét duyệt",
+              "char_count": 758,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.03408653846153846,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p19_par_002 | data/raw/student_handbook_corpus.json | page 19]\nĐiều 38. Quỹ học bổng và các mức học bổng khuyến khích học tập năm 2024\n1. Quỹ học bổng Khuyến khích học tập (KKHT) được trích tối thiểu 8% từ nguồn thu học phí hệ chính quy hàng năm để khen thưởng các sinh viên có thành tích xuất sắc và giỏi trong học tập và rèn luyện.\n2. Học bổng KKHT được xét cấp theo từng học kỳ chính (Học kỳ I và Học kỳ II) với 03 định mức cụ thể năm 2024 như sau:\na) Mức học bổng loại Xuất sắc: Bằng 120% mức học phí chuẩn của ngành học trong học kỳ;\nb) Mức học bổng loại Giỏi: Bằng 100% mức học phí chuẩn của ngành học trong học kỳ;\nc) Mức học bổng loại Khá: Bằng 80% mức học phí chuẩn của ngành học trong học kỳ.\n3. Không xét cấp học bổng KKHT trong học kỳ hè và các học kỳ sinh viên đi trao đổi tín chỉ ở trường đại học khác có học bổng toàn phần.",
+        "context_ids": [
+          "student-handbook-2024_p19_par_002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3033.37,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Theo quy định mới năm 2025, mức học bổng khuyến khích học tập loại Xuất sắc bằng bao nhiêu phần trăm học phí?",
+    "status": "answered",
+    "answer": "Theo quy định mới năm 2025, mức học bổng khuyến khích học tập loại Xuất sắc bằng 130% mức học phí học kỳ [student-handbook-2025_p21_par_002].",
+    "citations": [
+      "student-handbook-2025_p21_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức học bổng khuyến khích học tập loại Xuất sắc 2025",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2025_p21_par_002",
+            "source_id": "student-handbook-2025",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 21,
+            "text": "Điều 42. Cải cách định mức và cơ cấu Quỹ học bổng khuyến khích học tập năm 2025\n1. Nhằm nâng cao động lực thi đua học thuật và nghiên cứu sáng tạo, từ học kỳ I năm học 2025, Nhà trường nâng tỷ lệ trích lập Quỹ học bổng KKHT từ 8% lên mức 10% tổng nguồn thu học phí chính quy. 2. Điều chỉnh mức tiền thưởng học bổng KKHT năm 2025 áp dụng các mức trần mới như sau:\na) Học bổng loại Xuất sắc (Cực kỳ xuất sắc): Bằng 130% mức học phí học kỳ (tăng 10% so với quy định năm 2024); b) Học bổng loại Giỏi: Bằng 110% mức học phí học kỳ (tăng 10% so với quy định năm 2024); c) Học bổng loại Khá: Bằng 85% mức học phí học kỳ (tăng 5% so với quy định năm 2024). 3.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2025,
+              "title": "Chương V: Cập nhật quy định Học bổng Khuyến khích học tập Niên khóa mới 2025",
+              "char_count": 651,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0358011634056055,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p19_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 19,
+            "text": "Điều 38. Quỹ học bổng và các mức học bổng khuyến khích học tập năm 2024\n1. Quỹ học bổng Khuyến khích học tập (KKHT) được trích tối thiểu 8% từ nguồn thu học phí hệ chính quy hàng năm để khen thưởng các sinh viên có thành tích xuất sắc và giỏi trong học tập và rèn luyện.\n2. Học bổng KKHT được xét cấp theo từng học kỳ chính (Học kỳ I và Học kỳ II) với 03 định mức cụ thể năm 2024 như sau:\na) Mức học bổng loại Xuất sắc: Bằng 120% mức học phí chuẩn của ngành học trong học kỳ;\nb) Mức học bổng loại Giỏi: Bằng 100% mức học phí chuẩn của ngành học trong học kỳ;\nc) Mức học bổng loại Khá: Bằng 80% mức học phí chuẩn của ngành học trong học kỳ.\n3. Không xét cấp học bổng KKHT trong học kỳ hè và các học kỳ sinh viên đi trao đổi tín chỉ ở trường đại học khác có học bổng toàn phần.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Học bổng khuyến khích học tập và Tiêu chí xét duyệt",
+              "char_count": 775,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.03514344262295082,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2025_p21_par_001",
+            "source_id": "student-handbook-2025",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 21,
+            "text": "CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (QUY ĐỊNH MỚI NĂM 2025)",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2025,
+              "title": "Chương V: Cập nhật quy định Học bổng Khuyến khích học tập Niên khóa mới 2025",
+              "char_count": 64,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.03450635386119257,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2025_p21_par_002 | data/raw/student_handbook_corpus.json | page 21]\nĐiều 42. Cải cách định mức và cơ cấu Quỹ học bổng khuyến khích học tập năm 2025\n1. Nhằm nâng cao động lực thi đua học thuật và nghiên cứu sáng tạo, từ học kỳ I năm học 2025, Nhà trường nâng tỷ lệ trích lập Quỹ học bổng KKHT từ 8% lên mức 10% tổng nguồn thu học phí chính quy. 2. Điều chỉnh mức tiền thưởng học bổng KKHT năm 2025 áp dụng các mức trần mới như sau:\na) Học bổng loại Xuất sắc (Cực kỳ xuất sắc): Bằng 130% mức học phí học kỳ (tăng 10% so với quy định năm 2024); b) Học bổng loại Giỏi: Bằng 110% mức học phí học kỳ (tăng 10% so với quy định năm 2024); c) Học bổng loại Khá: Bằng 85% mức học phí học kỳ (tăng 5% so với quy định năm 2024). 3.\n\n[student-handbook-2025_p21_par_001 | data/raw/student_handbook_corpus.json | page 21]\nCHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (QUY ĐỊNH MỚI NĂM 2025)",
+        "context_ids": [
+          "student-handbook-2025_p21_par_002",
+          "student-handbook-2025_p21_par_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3037.97,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Sinh viên cần đạt điểm trung bình tích lũy CPA tối thiểu bao nhiêu để được đăng ký làm Khóa luận tốt nghiệp?",
+    "status": "answered",
+    "answer": "Sinh viên cần đạt điểm trung bình chung tích lũy (CPA) từ 2.65 trở lên trên thang điểm 4.0 tính đến thời điểm xét làm khóa luận để được đăng ký làm Khóa luận tốt nghiệp [student-handbook-2024_p23_par_002].",
+    "citations": [
+      "student-handbook-2024_p23_par_002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "điều kiện đăng ký khóa luận tốt nghiệp CPA",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p23_par_001",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 23,
+            "text": "CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Điều kiện làm Khóa luận tốt nghiệp và Đồ án tốt nghiệp",
+              "char_count": 43,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.03574828133262824,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p24_par_001",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 24,
+            "text": "CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Quy trình hướng dẫn, Nộp đề tài và Chấm phản biện khóa luận",
+              "char_count": 55,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.035176651305683565,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p23_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 23,
+            "text": "Điều 46. Tiêu chuẩn và điều kiện đăng ký làm Khóa luận tốt nghiệp (KLTN)\n1. Khóa luận tốt nghiệp (hoặc Đồ án tốt nghiệp đối với khối kỹ thuật) là học phần đặc biệt có khối lượng từ 06 đến 10 tín chỉ, thực hiện ở học kỳ cuối cùng nhằm đánh giá tổng hợp năng lực chuyên môn và tư duy nghiên cứu độc lập của sinh viên. 2. Sinh viên được đăng ký làm KLTN khi đáp ứng đầy đủ tất cả các điều kiện tiên quyết sau:\na) Đã tích lũy tối thiểu 80% tổng số tín chỉ của toàn bộ chương trình đào tạo của ngành học; b) Điểm trung bình chung tích lũy (CPA) tính đến thời điểm xét làm khóa luận đạt từ 2.65 trở lên trên thang điểm 4.0; c) Đã hoàn thành và đạt điểm tất cả các học phần tiên quyết, học phần phương pháp nghiên cứu khoa học và học phần thực tập chuyên ngành;",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Điều kiện làm Khóa luận tốt nghiệp và Đồ án tốt nghiệp",
+              "char_count": 754,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.03505674653215637,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p23_par_001 | data/raw/student_handbook_corpus.json | page 23]\nCHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP\n\n[student-handbook-2024_p24_par_001 | data/raw/student_handbook_corpus.json | page 24]\nCHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)\n\n[student-handbook-2024_p23_par_002 | data/raw/student_handbook_corpus.json | page 23]\nĐiều 46. Tiêu chuẩn và điều kiện đăng ký làm Khóa luận tốt nghiệp (KLTN)\n1. Khóa luận tốt nghiệp (hoặc Đồ án tốt nghiệp đối với khối kỹ thuật) là học phần đặc biệt có khối lượng từ 06 đến 10 tín chỉ, thực hiện ở học kỳ cuối cùng nhằm đánh giá tổng hợp năng lực chuyên môn và tư duy nghiên cứu độc lập của sinh viên. 2. Sinh viên được đăng ký làm KLTN khi đáp ứng đầy đủ tất cả các điều kiện tiên quyết sau:\na) Đã tích lũy tối thiểu 80% tổng số tín chỉ của toàn bộ chương trình đào tạo của ngành học; b) Điểm trung bình chung tích lũy (CPA) tính đến thời điểm xét làm khóa luận đạt từ 2.65 trở lên trên thang điểm 4.0; c) Đã hoàn thành và đạt điểm tất cả các học phần tiên quyết, học phần phương pháp nghiên cứu khoa học và học phần thực tập chuyên ngành;",
+        "context_ids": [
+          "student-handbook-2024_p23_par_001",
+          "student-handbook-2024_p24_par_001",
+          "student-handbook-2024_p23_par_002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 5397.43,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "Báo cáo khóa luận tốt nghiệp quét qua phần mềm Turnitin có tỷ lệ trùng lặp tối đa cho phép là bao nhiêu phần trăm?",
+    "status": "answered",
+    "answer": "Tỷ lệ trùng lặp tương đồng (Similarity Index) tối đa cho phép đối với báo cáo khóa luận tốt nghiệp khi quét qua phần mềm Turnitin là dưới 20% (sau khi đã loại bỏ danh mục tài liệu tham khảo và mẫu trang bìa) [student-handbook-2024_p24_par_004].",
+    "citations": [
+      "student-handbook-2024_p24_par_004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tỷ lệ trùng lặp tối đa khóa luận tốt nghiệp Turnitin",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p24_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 24,
+            "text": "Điều 49. Quy trình nộp quyển, kiểm tra đạo văn và chấm phản biện\n1. Sinh viên phải nộp 03 cuốn báo cáo KLTN bìa mềm và đĩa/file mềm lưu trữ mã nguồn, số liệu thô về Văn phòng Khoa trước ngày bảo vệ tối thiểu 10 ngày làm việc. Báo cáo phải có chữ ký đồng ý cho bảo vệ của Giảng viên hướng dẫn. 2. Kiểm tra đạo văn (Plagiarism Check) bắt buộc:\na) Toàn bộ cuốn báo cáo KLTN được quét qua phần mềm kiểm tra trùng lặp Turnitin do Nhà trường chỉ định; b) Tỷ lệ trùng lặp tương đồng (Similarity Index) tối đa cho phép là dưới 20% (sau khi đã loại bỏ danh mục tài liệu tham khảo và mẫu trang bìa); c) Nếu tỷ lệ trùng lặp từ 20% đến 30%, sinh viên được chỉnh sửa lại 01 lần trong vòng 05 ngày. Nếu tỷ lệ trùng lặp trên 30%, sinh viên bị đình chỉ bảo vệ ngay lập tức và nhận điểm 0 cho học phần KLTN. 3.",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Quy trình hướng dẫn, Nộp đề tài và Chấm phản biện khóa luận",
+              "char_count": 793,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p23_par_001",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 23,
+            "text": "CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Điều kiện làm Khóa luận tốt nghiệp và Đồ án tốt nghiệp",
+              "char_count": 43,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.03487903225806452,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p24_par_001",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 24,
+            "text": "CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)",
+            "metadata": {
+              "section": "khoa_luan_do_an_tot_nghiep",
+              "year": 2024,
+              "title": "Chương VI: Quy trình hướng dẫn, Nộp đề tài và Chấm phản biện khóa luận",
+              "char_count": 55,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.03433455433455433,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p24_par_004 | data/raw/student_handbook_corpus.json | page 24]\nĐiều 49. Quy trình nộp quyển, kiểm tra đạo văn và chấm phản biện\n1. Sinh viên phải nộp 03 cuốn báo cáo KLTN bìa mềm và đĩa/file mềm lưu trữ mã nguồn, số liệu thô về Văn phòng Khoa trước ngày bảo vệ tối thiểu 10 ngày làm việc. Báo cáo phải có chữ ký đồng ý cho bảo vệ của Giảng viên hướng dẫn. 2. Kiểm tra đạo văn (Plagiarism Check) bắt buộc:\na) Toàn bộ cuốn báo cáo KLTN được quét qua phần mềm kiểm tra trùng lặp Turnitin do Nhà trường chỉ định; b) Tỷ lệ trùng lặp tương đồng (Similarity Index) tối đa cho phép là dưới 20% (sau khi đã loại bỏ danh mục tài liệu tham khảo và mẫu trang bìa); c) Nếu tỷ lệ trùng lặp từ 20% đến 30%, sinh viên được chỉnh sửa lại 01 lần trong vòng 05 ngày. Nếu tỷ lệ trùng lặp trên 30%, sinh viên bị đình chỉ bảo vệ ngay lập tức và nhận điểm 0 cho học phần KLTN. 3.\n\n[student-handbook-2024_p23_par_001 | data/raw/student_handbook_corpus.json | page 23]\nCHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP\n\n[student-handbook-2024_p24_par_001 | data/raw/student_handbook_corpus.json | page 24]\nCHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)",
+        "context_ids": [
+          "student-handbook-2024_p24_par_004",
+          "student-handbook-2024_p23_par_001",
+          "student-handbook-2024_p24_par_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3066.29,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "u01",
+    "split": "dev",
+    "question": "Nhà trường có chính sách trợ giá vé xe buýt tháng hoặc bố trí các tuyến xe buýt đưa đón sinh viên giữa các cơ sở không?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chính sách trợ giá vé xe buýt sinh viên, xe buýt đưa đón giữa các cơ sở",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p20_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 20,
+            "text": "Điều 40. Học bổng tài trợ từ các tổ chức, doanh nghiệp đối tác\n1. Hàng năm, Nhà trường phối hợp cùng các tập đoàn công nghệ, ngân hàng và đối tác doanh nghiệp trong và ngoài nước trao tặng hàng trăm suất học bổng tài trợ với các mục đích: Khuyến khích tài năng trẻ, Hỗ trợ sinh viên vượt khó học giỏi, và Ươm mầm nghiên cứu khoa học. 2. Tiêu chí xét chọn học bổng doanh nghiệp do đơn vị tài trợ quyết định và phối hợp với Phòng Hợp tác Doanh nghiệp & Công tác Sinh viên công bố công khai. Thông thường bao gồm:\na) Thành tích học tập đạt loại Khá, Giỏi trở lên; b) Có công trình nghiên cứu khoa học, đạt giải thưởng sáng tạo hoặc giải thưởng Olympic quốc gia; c) Vượt qua vòng phỏng vấn trực tiếp bằng tiếng Anh của đại diện doanh nghiệp tài trợ. 3.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Học bổng tài trợ doanh nghiệp và Hỗ trợ khẩn cấp",
+              "char_count": 748,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.03377609108159393,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p18_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 18,
+            "text": "Điều 37. Hồ sơ và thủ tục xét hưởng chính sách miễn giảm học phí\n1. Hồ sơ xin miễn giảm học phí nộp định kỳ một lần cho cả năm học tại Phòng Công tác Sinh viên trong vòng 30 ngày kể từ ngày bắt đầu năm học. Hồ sơ bao gồm:\na) Đơn đề nghị miễn, giảm học phí theo mẫu quy định của Bộ Lao động - Thương binh và Xã hội;\nb) Bản sao công chứng thẻ Căn cước công dân và Giấy khai sinh;\nc) Giấy xác nhận đối tượng chính sách hợp lệ do cơ quan có thẩm quyền cấp (Sổ hộ nghèo/cận nghèo, Giấy chứng nhận thương bệnh binh, Giấy xác nhận khuyết tật).\n2. Tiền miễn giảm học phí được Nhà trường chi trả trực tiếp hoặc cấn trừ thẳng vào số học phí phải nộp của từng học kỳ sau khi có Quyết định phê duyệt danh sách chính thức.",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Miễn giảm học phí và Trợ cấp xã hội cho sinh viên chính sách",
+              "char_count": 709,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.03219616204690832,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p18_par_001",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 18,
+            "text": "CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (TIẾP THEO)",
+            "metadata": {
+              "section": "hoc_phi_mien_giam_hoc_bong",
+              "year": 2024,
+              "title": "Chương V: Miễn giảm học phí và Trợ cấp xã hội cho sinh viên chính sách",
+              "char_count": 52,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 1
+            },
+            "score": 0.019672131147540982,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p20_par_002 | data/raw/student_handbook_corpus.json | page 20]\nĐiều 40. Học bổng tài trợ từ các tổ chức, doanh nghiệp đối tác\n1. Hàng năm, Nhà trường phối hợp cùng các tập đoàn công nghệ, ngân hàng và đối tác doanh nghiệp trong và ngoài nước trao tặng hàng trăm suất học bổng tài trợ với các mục đích: Khuyến khích tài năng trẻ, Hỗ trợ sinh viên vượt khó học giỏi, và Ươm mầm nghiên cứu khoa học. 2. Tiêu chí xét chọn học bổng doanh nghiệp do đơn vị tài trợ quyết định và phối hợp với Phòng Hợp tác Doanh nghiệp & Công tác Sinh viên công bố công khai. Thông thường bao gồm:\na) Thành tích học tập đạt loại Khá, Giỏi trở lên; b) Có công trình nghiên cứu khoa học, đạt giải thưởng sáng tạo hoặc giải thưởng Olympic quốc gia; c) Vượt qua vòng phỏng vấn trực tiếp bằng tiếng Anh của đại diện doanh nghiệp tài trợ. 3.\n\n[student-handbook-2024_p18_par_001 | data/raw/student_handbook_corpus.json | page 18]\nCHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (TIẾP THEO)",
+        "context_ids": [
+          "student-handbook-2024_p20_par_002",
+          "student-handbook-2024_p18_par_001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 7189.06,
+    "tool_searches": 1
+  },
+  {
+    "query_id": "u02",
+    "split": "dev",
+    "question": "Sinh viên có được phép nuôi thú cưng (chó, mèo) trong phòng ở Ký túc xá của trường không?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy định nuôi thú cưng ký túc xá",
+        "filter": null,
+        "results": [
+          {
+            "id": "student-handbook-2024_p31_par_002",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 31,
+            "text": "Điều 62. Quy định quản lý sinh viên nội trú Ký túc xá (KTX)\n1. Ký túc xá Nhà trường ưu tiên tiếp nhận sinh viên nội trú theo thứ tự ưu tiên: Sinh viên diện chính sách xã hội, con thương binh liệt sĩ, sinh viên khuyết tật, sinh viên dân tộc thiểu số vùng sâu vùng xa, và tân sinh viên khóa mới. 2. Quyền và nghĩa vụ của sinh viên ở nội trú Ký túc xá:\na) Được sử dụng các tiện ích sinh hoạt, hệ thống internet tốc độ cao, phòng tự học và khu thể thao phức hợp theo nội quy KTX; b) Phải giữ gìn trật tự vệ sinh chung, bảo vệ tài sản công cộng và thực hiện nghiêm ngặt quy định về an toàn phòng cháy chữa cháy (PCCC); c) Giờ mở cửa và đóng cửa Ký túc xá: Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày. Sinh viên về muộn sau 23h00 phải xuất trình thẻ nội trú và ký sổ kiểm soát an ninh;",
+            "metadata": {
+              "section": "cong_tac_sinh_vien_ngoai_tru",
+              "year": 2024,
+              "title": "Chương VIII: Quản lý sinh viên nội trú ký túc xá và Ngoại trú",
+              "char_count": 793,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 2
+            },
+            "score": 0.0360655737704918,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p31_par_003",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 31,
+            "text": "d) Nghiêm cấm nấu ăn bằng bếp điện, bếp gas trong phòng ở thông thường (chỉ được nấu tại khu vực bếp công cộng quy định); cấm sử dụng rượu bia, chất kích thích, cờ bạc và dẫn người lạ vào ngủ qua đêm trong phòng KTX. 3. Sinh viên vi phạm nội quy KTX từ 03 lần trở lên trong một học kỳ sẽ bị hủy hợp đồng nội trú, trục xuất khỏi Ký túc xá và bị trừ 20 điểm rèn luyện.",
+            "metadata": {
+              "section": "cong_tac_sinh_vien_ngoai_tru",
+              "year": 2024,
+              "title": "Chương VIII: Quản lý sinh viên nội trú ký túc xá và Ngoại trú",
+              "char_count": 366,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 3
+            },
+            "score": 0.035483870967741936,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "student-handbook-2024_p31_par_004",
+            "source_id": "student-handbook-2024",
+            "source": "data/raw/student_handbook_corpus.json",
+            "page": 31,
+            "text": "Điều 63. Quy định quản lý và đăng ký tạm trú cho sinh viên ngoại trú\n1. Toàn bộ sinh viên không ở nội trú tại Ký túc xá của Nhà trường (gọi chung là sinh viên ngoại trú) có trách nhiệm thực hiện đăng ký thông tin cư trú chính xác:\na) Phải làm thủ tục đăng ký tạm trú với Công an xã, phường nơi đang thuê trọ theo quy định của Luật Cư trú trong vòng 15 ngày kể từ ngày chuyển đến; b) Cập nhật đầy đủ và chính xác địa chỉ ngoại trú, số điện thoại liên hệ cá nhân và thông tin chủ nhà trọ lên Cổng thông tin sinh viên (Portal) trong vòng 30 ngày kể từ ngày bắt đầu năm học mới. 2.",
+            "metadata": {
+              "section": "cong_tac_sinh_vien_ngoai_tru",
+              "year": 2024,
+              "title": "Chương VIII: Quản lý sinh viên nội trú ký túc xá và Ngoại trú",
+              "char_count": 577,
+              "chunk_strategy": "by_paragraph",
+              "chunk_index": 4
+            },
+            "score": 0.03492063492063492,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[student-handbook-2024_p31_par_002 | data/raw/student_handbook_corpus.json | page 31]\nĐiều 62. Quy định quản lý sinh viên nội trú Ký túc xá (KTX)\n1. Ký túc xá Nhà trường ưu tiên tiếp nhận sinh viên nội trú theo thứ tự ưu tiên: Sinh viên diện chính sách xã hội, con thương binh liệt sĩ, sinh viên khuyết tật, sinh viên dân tộc thiểu số vùng sâu vùng xa, và tân sinh viên khóa mới. 2. Quyền và nghĩa vụ của sinh viên ở nội trú Ký túc xá:\na) Được sử dụng các tiện ích sinh hoạt, hệ thống internet tốc độ cao, phòng tự học và khu thể thao phức hợp theo nội quy KTX; b) Phải giữ gìn trật tự vệ sinh chung, bảo vệ tài sản công cộng và thực hiện nghiêm ngặt quy định về an toàn phòng cháy chữa cháy (PCCC); c) Giờ mở cửa và đóng cửa Ký túc xá: Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày. Sinh viên về muộn sau 23h00 phải xuất trình thẻ nội trú và ký sổ kiểm soát an ninh;\n\n[student-handbook-2024_p31_par_003 | data/raw/student_handbook_corpus.json | page 31]\nd) Nghiêm cấm nấu ăn bằng bếp điện, bếp gas trong phòng ở thông thường (chỉ được nấu tại khu vực bếp công cộng quy định); cấm sử dụng rượu bia, chất kích thích, cờ bạc và dẫn người lạ vào ngủ qua đêm trong phòng KTX. 3. Sinh viên vi phạm nội quy KTX từ 03 lần trở lên trong một học kỳ sẽ bị hủy hợp đồng nội trú, trục xuất khỏi Ký túc xá và bị trừ 20 điểm rèn luyện.",
+        "context_ids": [
+          "student-handbook-2024_p31_par_002",
+          "student-handbook-2024_p31_par_003"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 9821.62,
+    "tool_searches": 1
+  }
+]

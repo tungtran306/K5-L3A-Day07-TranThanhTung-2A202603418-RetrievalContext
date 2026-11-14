@@ -1,0 +1,629 @@
+--- PAGE 1 | student-handbook-2024 | quy_dinh_chung | 2024 ---
+CHƯƠNG I: QUY ĐỊNH CHUNG VÀ MỤC TIÊU ĐÀO TẠO
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Văn bản này quy định chi tiết về tổ chức và quản lý đào tạo trình độ đại học theo hệ thống tín chỉ, áp dụng thống nhất cho toàn thể sinh viên hệ chính quy, sinh viên chương trình chất lượng cao và sinh viên chương trình liên kết quốc tế.
+2. Quy chế này điều chỉnh các hoạt động từ khâu tuyển sinh nhập học, tổ chức dạy và học, kiểm tra đánh giá học phần, xét cấp học bổng, thu nộp học phí, quản lý sinh viên nội trú - ngoại trú cho đến khi xét và công nhận tốt nghiệp.
+3. Toàn bộ cán bộ, giảng viên, nhân viên các phòng ban chức năng và sinh viên có trách nhiệm nghiêm túc chấp hành các điều khoản được quy định trong sổ tay học vụ này.
+
+Điều 2. Mục tiêu đào tạo và chuẩn đầu ra của sinh viên
+1. Mục tiêu chung: Đào tạo nguồn nhân lực chất lượng cao, có phẩm chất chính trị vững vàng, đạo đức nghề nghiệp trong sáng, có kiến thức chuyên môn sâu rộng và năng lực thực hành nghề nghiệp linh hoạt, đáp ứng tiêu chuẩn của cuộc Cách mạng Công nghiệp lần thứ tư và hội nhập quốc tế.
+2. Chuẩn đầu ra về năng lực chuyên môn: Sinh viên tốt nghiệp phải nắm vững khối kiến thức cơ sở ngành và chuyên ngành, có khả năng phân tích, thiết kế, triển khai và đánh giá các hệ thống phức tạp trong lĩnh vực được đào tạo.
+3. Chuẩn đầu ra về ngoại ngữ: Sinh viên tốt nghiệp hệ chuẩn bắt buộc đạt chứng chỉ tiếng Anh quốc tế tối thiểu TOEIC 600 điểm (hoặc IELTS 5.5, TOEFL iBT 65 điểm). Đối với chương trình chất lượng cao, chuẩn đầu ra yêu cầu tối thiểu IELTS 6.5 hoặc TOEIC 750 điểm.
+4. Chuẩn đầu ra về tin học và kỹ năng mềm: Sinh viên phải có chứng chỉ Ứng dụng Công nghệ thông tin nâng cao và hoàn thành tối thiểu 03 học phần kỹ năng mềm bắt buộc bao gồm: Kỹ năng giao tiếp và thuyết trình, Kỹ năng làm việc nhóm và giải quyết xung đột, Kỹ năng quản lý thời gian và lập kế hoạch nghề nghiệp.
+
+Điều 3. Đơn vị đo lường và khối lượng học tập tín chỉ
+1. Khối lượng học tập của mỗi chương trình đào tạo được tính bằng tín chỉ (TC). Một tín chỉ tương đương với 15 tiết học lý thuyết trên lớp, hoặc 30 - 45 tiết thực hành, thí nghiệm, thảo luận, hoặc 45 - 90 tiết thực tập tại cơ sở sản xuất, làm tiểu luận, bài tập lớn, đồ án hoặc khóa luận tốt nghiệp.
+2. Đối với các tiết học lý thuyết hoặc thực hành trên lớp, sinh viên phải dành ít nhất 30 giờ tự học, tự nghiên cứu ngoài giờ lên lớp có sự hướng dẫn của giảng viên phụ trách học phần.
+3. Một tiết học được tính chuẩn là 50 phút. Mỗi học kỳ chính bao gồm 15 tuần học tập thực tế và từ 2 đến 3 tuần dành riêng cho kỳ thi kết thúc học phần.
+4. Tổng khối lượng kiến thức toàn khóa đào tạo cử nhân từ 120 đến 135 tín chỉ, chương trình đào tạo kỹ sư chuyên sâu đặc thù từ 150 đến 165 tín chỉ tích lũy.
+
+--- PAGE 2 | student-handbook-2024 | quy_dinh_chung | 2024 ---
+CHƯƠNG I: QUY ĐỊNH CHUNG VÀ MỤC TIÊU ĐÀO TẠO (TIẾP THEO)
+
+Điều 4. Thời gian đào tạo theo kế hoạch chuẩn và thời gian tối đa
+1. Thời gian đào tạo theo kế hoạch chuẩn đối với chương trình cử nhân là 4 năm học (tương ứng 8 học kỳ chính). Đối với chương trình kỹ sư hoặc các ngành đào tạo tích hợp cử nhân - thạc sĩ, thời gian đào tạo chuẩn là 4,5 đến 5 năm học.
+2. Thời gian tối đa để sinh viên hoàn thành toàn bộ chương trình khóa học không được vượt quá 2 lần thời gian thiết kế chuẩn:
+a) Tối đa không quá 8 năm học đối với các chương trình chuẩn 4 năm;
+b) Tối đa không quá 9 năm học đối với các chương trình chuẩn 4,5 năm;
+c) Đối với các đối tượng sinh viên ưu tiên theo quy định của Nhà nước (như sinh viên khuyết tật, thương bệnh binh, sinh viên cử tuyển), thời gian tối đa có thể được gia hạn thêm nhưng không quá 02 học kỳ phụ do Hiệu trưởng xem xét quyết định.
+3. Trường hợp sinh viên học vượt tiến độ để tốt nghiệp sớm: Sinh viên có quyền đăng ký khối lượng học tập tăng thêm trong từng học kỳ để rút ngắn thời gian đào tạo nhưng thời gian học tập thực tế tại trường không được ít hơn 3 năm đối với hệ đào tạo 4 năm.
+
+Điều 5. Kế hoạch năm học và cấu trúc các học kỳ
+1. Một năm học chính quy được tổ chức thành 02 học kỳ chính (Học kỳ I và Học kỳ II) và 01 học kỳ phụ (Học kỳ hè):
+a) Học kỳ I bắt đầu vào tuần đầu tiên của tháng 9 và kết thúc vào trung tuần tháng 1 năm sau;
+b) Học kỳ II bắt đầu vào đầu tháng 2 và kết thúc vào cuối tháng 6 hàng năm;
+c) Học kỳ hè (không bắt buộc) được tổ chức trong tháng 7 và tháng 8 nhằm tạo điều kiện cho sinh viên học lại các môn chưa đạt, học cải thiện nâng điểm hoặc học vượt tiến độ. Thời lượng học kỳ hè kéo dài từ 5 đến 7 tuần với cường độ học tập cao hơn.
+2. Lịch trình đào tạo chi tiết của toàn trường được Phòng Đào tạo công bố công khai trên Cổng thông tin học vụ trước khi bắt đầu năm học mới ít nhất 30 ngày. Mọi sự thay đổi về kế hoạch năm học do các sự kiện bất khả kháng (dịch bệnh, thiên tai) phải có thông báo chính thức bằng văn bản của Ban Giám hiệu.
+3. Nghỉ lễ, tết và nghỉ hè: Sinh viên được nghỉ tết Nguyên đán tối thiểu 02 tuần, nghỉ giữa hai học kỳ chính 01 tuần và nghỉ hè tối thiểu 03 tuần nếu không đăng ký học kỳ phụ.
+
+--- PAGE 3 | student-handbook-2024 | tuyen_sinh_nhap_hoc | 2024 ---
+CHƯƠNG II: TUYỂN SINH VÀ NHẬP HỌC
+
+Điều 6. Thủ tục tiếp nhận và xác nhận nhập học cho tân sinh viên
+1. Thí sinh trúng tuyển vào trường phải thực hiện việc xác nhận nhập học trực tuyến trên Hệ thống hỗ trợ tuyển sinh chung của Bộ Giáo dục và Đào tạo trong thời hạn quy định. Quá thời hạn này mà không có lý do chính đáng, thí sinh được xem như từ chối quyền nhập học.
+2. Hồ sơ nhập học bản cứng nộp trực tiếp tại Phòng Đào tạo bao gồm:
+a) Bản chính Giấy báo trúng tuyển đại học;
+b) Bản sao công chứng Bằng tốt nghiệp THPT hoặc Giấy chứng nhận tốt nghiệp tạm thời đối với thí sinh vừa tốt nghiệp trong năm tuyển sinh;
+c) Bản sao công chứng Học bạ trung học phổ thông;
+d) Bản sao trích lục Giấy khai sinh và bản sao Căn cước công dân có gắn chip;
+e) Giấy chứng nhận sức khỏe do cơ sở y tế có thẩm quyền cấp quận, huyện trở lên cấp trong vòng 06 tháng gần nhất;
+f) Bản sao các giấy tờ xác nhận đối tượng ưu tiên tuyển sinh (nếu có diện chính sách miễn giảm hoặc cộng điểm ưu tiên).
+3. Nhà trường tiến hành đối chiếu hồ sơ gốc trong vòng 30 ngày kể từ ngày bắt đầu năm học. Nếu phát hiện có sự gian lận trong hồ sơ, văn bằng hoặc điểm thi tuyển sinh, Hội đồng tuyển sinh sẽ ra quyết định hủy bỏ kết quả trúng tuyển và xóa tên khỏi danh sách sinh viên.
+
+Điều 7. Mã số sinh viên, tài khoản định danh và email học vụ
+1. Mỗi sinh viên nhập học được cấp một Mã số sinh viên (MSSV) duy nhất gồm 10 ký tự số, dùng để quản lý toàn bộ quá trình học tập, thi cử và cấp phát văn bằng tốt nghiệp.
+2. Nhà trường cấp cho mỗi tân sinh viên một tài khoản thư điện tử chính thức với tên miền @student.edu.vn. Mọi thông báo chính thức của Nhà trường về lịch học, thông báo nộp học phí, lịch thi, cảnh báo học vụ và phản hồi thắc mắc đều được gửi qua địa chỉ email này.
+3. Sinh viên có trách nhiệm tự bảo mật mật khẩu tài khoản cá nhân trên Cổng thông tin đào tạo (Portal) và tài khoản học tập trực tuyến (LMS). Sinh viên không được cung cấp tài khoản cho người khác sử dụng để gian lận điểm danh hoặc làm bài kiểm tra hộ. Mọi hành vi vi phạm bảo mật tài khoản sẽ bị xem xét kỷ luật từ mức khiển trách đến đình chỉ học tập.
+
+--- PAGE 4 | student-handbook-2024 | tuyen_sinh_nhap_hoc | 2024 ---
+CHƯƠNG II: TUYỂN SINH VÀ NHẬP HỌC (TIẾP THEO)
+
+Điều 8. Điều kiện chuyển ngành đào tạo và chuyển cơ sở
+1. Sinh viên chỉ được xem xét chuyển ngành đào tạo sau khi hoàn thành năm học thứ nhất (tương ứng hoàn thành tối thiểu 30 tín chỉ của khối kiến thức đại cương) và phải thỏa mãn đồng thời các điều kiện khắt khe sau:
+a) Điểm trúng tuyển đầu vào của sinh viên tại năm tuyển sinh phải bằng hoặc cao hơn điểm chuẩn trúng tuyển của ngành xin chuyển đến trong cùng đợt xét tuyển;
+b) Điểm trung bình chung tích lũy (CPA) của năm thứ nhất đạt từ 2.50 trở lên trên thang điểm 4.0;
+c) Sinh viên không bị cảnh báo học tập và không đang trong thời gian chấp hành kỷ luật từ mức khiển trách trở lên;
+d) Ngành đào tạo xin chuyển đến còn chỉ tiêu tiếp nhận sinh viên theo phê duyệt hàng năm của Hội đồng đào tạo.
+2. Sinh viên không được phép chuyển ngành trong các trường hợp sau: Đang là sinh viên năm thứ tư; sinh viên trúng tuyển theo diện cử tuyển hoặc hợp đồng đào tạo theo địa chỉ; sinh viên thuộc nhóm ngành nghệ thuật chuyển sang nhóm ngành kỹ thuật, kinh tế.
+3. Hồ sơ xin chuyển ngành phải nộp về Phòng Đào tạo trước khi bắt đầu học kỳ mới ít nhất 04 tuần để Hội đồng chuyên môn thẩm định và trình Hiệu trưởng ra quyết định.
+
+Điều 9. Đăng ký học cùng lúc hai chương trình (Song bằng)
+1. Sinh viên có nguyện vọng học cùng lúc hai chương trình đào tạo đại học chính quy (song ngành) được nộp đơn đăng ký khi đáp ứng các tiêu chuẩn sau:
+a) Đã tích lũy đủ khối lượng kiến thức năm thứ nhất của chương trình thứ nhất với số tín chỉ đạt tối thiểu 30 TC;
+b) Điểm trung bình chung tích lũy của chương trình thứ nhất đạt từ 2.80 trở lên trên thang điểm 4.0 hoặc đạt loại Khá trở lên;
+c) Điểm rèn luyện đạt từ loại Tốt (80 điểm) trở lên trong tất cả các học kỳ đã học.
+2. Trong quá trình học cùng lúc hai chương trình, nếu điểm trung bình tích lũy của chương trình thứ nhất bị giảm xuống dưới 2.00 hoặc bị rơi vào diện cảnh báo học tập, sinh viên bắt buộc phải dừng học chương trình thứ hai trong học kỳ tiếp theo.
+3. Sinh viên chỉ được xét cấp văn bằng tốt nghiệp của chương trình thứ hai sau khi đã được công nhận tốt nghiệp và cấp bằng của chương trình thứ nhất. Thời gian tối đa để hoàn thành cả hai chương trình không vượt quá thời gian tối đa của chương trình thứ nhất.
+
+--- PAGE 5 | student-handbook-2024 | to_chuc_dao_tao_tin_chi | 2024 ---
+CHƯƠNG III: TỔ CHỨC ĐÀO TẠO VÀ ĐĂNG KÝ HỌC PHẦN
+
+Điều 10. Quy trình đăng ký học phần trực tuyến
+1. Đầu mỗi học kỳ, Phòng Đào tạo công bố thời khóa biểu dự kiến của các lớp học phần trước ngày mở cổng đăng ký tối thiểu 02 tuần. Sinh viên thực hiện đăng ký môn học trực tuyến qua Cổng thông tin học vụ (Portal) theo thời gian quy định cho từng khóa học.
+2. Quy trình đăng ký học phần bao gồm 03 giai đoạn:
+a) Giai đoạn 1 - Đăng ký theo kế hoạch chuẩn (Tuần 1): Mở cổng cho sinh viên đăng ký các học phần đúng tiến độ của ngành;
+b) Giai đoạn 2 - Đăng ký bổ sung và tự do (Tuần 2): Cho phép sinh viên đăng ký thêm các môn học tự chọn, học lại, học cải thiện hoặc học vượt lớp;
+c) Giai đoạn 3 - Điều chỉnh và hủy lớp (Tuần 3): Nhà trường thông báo hủy các lớp học phần không đủ số lượng sinh viên tối thiểu (dưới 15 sinh viên đối với môn chuyên ngành, dưới 30 sinh viên đối với môn đại cương). Sinh viên thuộc lớp bị hủy được quyền chuyển sang lớp khác còn chỗ trống.
+3. Sinh viên bắt buộc phải kiểm tra điều kiện tiên quyết của từng môn học. Hệ thống sẽ tự động từ chối đăng ký nếu sinh viên chưa đạt điểm môn học tiên quyết (điểm dưới 4.0 thang 10 hoặc điểm F).
+
+Điều 11. Hạn mức số lượng tín chỉ tối thiểu và tối đa trong từng học kỳ
+1. Trong mỗi học kỳ chính (Học kỳ I và Học kỳ II):
+a) Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) phải đăng ký tối thiểu 14 tín chỉ và tối đa không quá 24 tín chỉ;
+b) Sinh viên có học lực xếp loại Yếu hoặc đang trong diện bị cảnh báo học tập mức 1 chỉ được phép đăng ký tối thiểu 10 tín chỉ và tối đa không quá 14 tín chỉ để tập trung cải thiện kết quả;
+c) Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) được phép nộp đơn xin đăng ký tối đa 28 tín chỉ nếu có sự bảo lãnh của Cố vấn học tập.
+2. Trong học kỳ phụ (Học kỳ hè):
+a) Sinh viên không bị bắt buộc số tín chỉ tối thiểu;
+b) Khối lượng đăng ký tối đa trong học kỳ hè không được vượt quá 10 tín chỉ nhằm đảm bảo chất lượng tiếp thu kiến thức do thời lượng học kỳ hè ngắn và dồn dập.
+3. Đối với sinh viên ở học kỳ cuối cùng của khóa học (chuẩn bị làm đồ án tốt nghiệp hoặc thực tập cuối khóa), quy định về số tín chỉ tối thiểu 14 tín chỉ không áp dụng.
+
+--- PAGE 6 | student-handbook-2024 | to_chuc_dao_tao_tin_chi | 2024 ---
+CHƯƠNG III: TỔ CHỨC ĐÀO TẠO VÀ ĐĂNG KÝ HỌC PHẦN (TIẾP THEO)
+
+Điều 12. Quy định về việc rút học phần đã đăng ký
+1. Sau khi kết thúc đợt đăng ký chính thức, sinh viên cảm thấy quá tải hoặc gặp khó khăn cá nhân có thể nộp đơn xin rút bớt học phần trên hệ thống Portal.
+2. Thời hạn rút học phần:
+a) Đối với học kỳ chính: Sinh viên được quyền rút học phần trong vòng 04 tuần đầu tiên kể từ ngày học kỳ chính thức bắt đầu;
+b) Đối với học kỳ hè: Sinh viên chỉ được phép rút học phần trong tuần đầu tiên của khóa hè.
+3. Điều kiện rút học phần:
+a) Sau khi rút học phần, số lượng tín chỉ còn lại trong học kỳ chính của sinh viên không được thấp hơn mức tối thiểu quy định (không dưới 14 tín chỉ với sinh viên bình thường, và không dưới 10 tín chỉ với sinh viên bị cảnh báo học tập);
+b) Học phần được rút hợp lệ sẽ nhận điểm 'W' (Withdrawal) trên bảng điểm học vụ. Điểm 'W' không tính vào điểm trung bình chung học kỳ (GPA) hay điểm trung bình tích lũy (CPA).
+c) Chính sách tài chính: Sinh viên rút học phần trong 2 tuần đầu được hoàn lại 50% học phí của học phần đó; rút từ tuần thứ 3 đến tuần thứ 4 không được hoàn trả học phí nhưng không bị ghi điểm phạt.
+
+Điều 13. Học lại và học cải thiện điểm số
+1. Học lại bắt buộc: Sinh viên có điểm học phần bị đánh giá không đạt (điểm F, dưới 4.0 trên thang 10) bắt buộc phải đăng ký học lại học phần đó ở các học kỳ tiếp theo. Nếu là học phần tự chọn, sinh viên có thể chọn học lại chính môn đó hoặc chọn một học phần tự chọn khác tương đương trong cùng nhóm kiến thức.
+2. Học cải thiện điểm:
+a) Sinh viên có điểm học phần đạt mức D hoặc D+ (từ 4.0 đến 5.4 điểm) được quyền đăng ký học lại để cải thiện nâng cao điểm tích lũy;
+b) Các môn học đã đạt từ điểm C trở lên (từ 5.5 điểm trở lên) không được phép đăng ký học cải thiện, trừ trường hợp có quy định riêng đối với sinh viên tốt nghiệp loại Khá muốn nâng lên loại Giỏi ở năm cuối;
+c) Khi học cải thiện, điểm của lần học mới nhất sẽ được lấy để tính vào điểm trung bình chung tích lũy CPA, điểm của lần học trước vẫn được lưu trong bảng điểm chi tiết kèm ký hiệu học cải thiện.
+
+--- PAGE 7 | student-handbook-2024 | to_chuc_dao_tao_tin_chi | 2024 ---
+CHƯƠNG III: TỔ CHỨC ĐÀO TẠO VÀ ĐĂNG KÝ HỌC PHẦN (TIẾP THEO)
+
+Điều 14. Tổ chức lớp học phần và trách nhiệm tham gia học tập
+1. Mỗi lớp học phần được bố trí một Giảng viên chủ nhiệm học phần phụ trách giảng dạy lý thuyết, chấm điểm quá trình và hướng dẫn thảo luận. Đối với các môn có giờ bài tập lớn hoặc thí nghiệm, có thể bố trí thêm Trợ giảng (Teaching Assistant).
+2. Sinh viên có trách nhiệm tham gia đầy đủ các buổi lên lớp, các buổi thí nghiệm thực hành và hoàn thành các nhiệm vụ tự học do giảng viên giao.
+3. Điểm danh được giảng viên thực hiện nghiêm túc vào mỗi buổi học thông qua hình thức gọi tên, quét mã QR định danh trên ứng dụng của Nhà trường hoặc làm bài tập nhanh đầu giờ (quiz). Mọi hành vi điểm danh hộ hoặc nhờ người khác quét mã QR thay đều bị xử lý kỷ luật nghiêm khắc.
+
+Điều 15. Tiêu chuẩn chuyên cần và điều kiện tiên quyết để được dự thi
+1. Sinh viên phải đảm bảo tỷ lệ tham gia giờ học trên lớp tối thiểu theo quy định sau:
+a) Phải tham dự tối thiểu 80% tổng số giờ giảng lý thuyết trên lớp của học phần (tương đương không được nghỉ quá 20% tổng số tiết học);
+b) Phải tham dự đủ 100% các buổi thực hành, thí nghiệm trong phòng lab hoặc đi thực tế ngoài hiện trường. Nếu vắng mặt có lý do chính đáng, sinh viên phải nộp đơn và đăng ký học bù với lớp khác trước khi kết thúc học kỳ.
+2. Cấm thi kết thúc học phần:
+a) Sinh viên nghỉ học vượt quá 20% tổng số tiết lý thuyết mà không có lý do bất khả kháng được Ban Giám hiệu chấp thuận sẽ bị giảng viên lập biên bản cấm thi kết thúc học phần;
+b) Sinh viên có điểm đánh giá quá trình (điểm chuyên cần kết hợp điểm kiểm tra giữa kỳ) dưới 3.0 điểm trên thang điểm 10 sẽ bị tước quyền dự thi kết thúc học phần;
+c) Trường hợp bị cấm thi, sinh viên nhận điểm 0 cho phần thi kết thúc học phần và điểm tổng kết học phần nhận điểm F (phải đăng ký học lại từ đầu).
+3. Danh sách sinh viên bị cấm thi được Giảng viên nộp về Văn phòng Khoa và công bố công khai cho sinh viên trước ngày bắt đầu kỳ thi tối thiểu 05 ngày làm việc để sinh viên có quyền khiếu nại nếu có sai sót dữ liệu.
+
+--- PAGE 8 | student-handbook-2024 | to_chuc_dao_tao_tin_chi | 2024 ---
+CHƯƠNG III: TỔ CHỨC ĐÀO TẠO VÀ ĐĂNG KÝ HỌC PHẦN (TIẾP THEO)
+
+Điều 16. Điều kiện và thủ tục tạm dừng học tập, bảo lưu kết quả
+1. Sinh viên được quyền nộp đơn xin tạm dừng học tập và bảo lưu kết quả học tập đã tích lũy trong các trường hợp sau:
+a) Được điều động tham gia thực hiện nghĩa vụ quân sự, nghĩa vụ công an nhân dân hoặc tham gia các nhiệm vụ an ninh quốc phòng khẩn cấp theo lệnh của Nhà nước;
+b) Được cơ quan có thẩm quyền cử đại diện quốc gia tham gia các kỳ thi đấu thể thao, hội thi văn hóa quốc tế hoặc các chương trình trao đổi văn hóa chính thức;
+c) Vì lý do sức khỏe phải điều trị nội trú dài ngày, có giấy xác nhận và bệnh án của bệnh viện cấp quận/huyện hoặc tương đương trở lên;
+d) Vì hoàn cảnh kinh tế gia đình đặc biệt khó khăn hoặc lý do cá nhân chính đáng khác, nhưng với điều kiện sinh viên đã học tối thiểu 01 học kỳ tại trường và không thuộc diện bị xem xét buộc thôi học.
+2. Thời gian tạm dừng học tập:
+a) Mỗi lần xin tạm dừng không quá 02 học kỳ chính liên tiếp;
+b) Tổng thời gian tạm dừng vì lý do cá nhân không được vượt quá 04 học kỳ chính trong toàn khóa học;
+c) Thời gian tạm dừng học tập do thi hành nghĩa vụ quân sự không tính vào tổng thời gian đào tạo tối đa của khóa học.
+
+Điều 17. Thủ tục xin trở lại học tập sau thời gian bảo lưu
+1. Hết thời hạn tạm dừng học tập, trước khi bắt đầu học kỳ mới ít nhất 02 tuần, sinh viên phải nộp Đơn xin tiếp tục học tập kèm theo Quyết định tạm dừng trước đó về Phòng Đào tạo.
+2. Đối với sinh viên tạm dừng do lý do sức khỏe, đơn phải kèm theo Giấy chứng nhận đủ điều kiện sức khỏe học tập do cơ sở y tế có thẩm quyền cấp. Đối với sinh viên xuất ngũ, phải nộp kèm Giấy chứng nhận hoàn thành nghĩa vụ quân sự.
+3. Căn cứ vào chương trình đào tạo hiện hành tại thời điểm sinh viên quay trở lại học, Phòng Đào tạo sẽ xem xét công nhận các học phần tương đương và hướng dẫn sinh viên đăng ký các học phần bổ sung nếu có sự thay đổi về khung chương trình giữa hai khóa học.
+
+--- PAGE 9 | student-handbook-2024 | to_chuc_dao_tao_tin_chi | 2024 ---
+CHƯƠNG III: TỔ CHỨC ĐÀO TẠO VÀ ĐĂNG KÝ HỌC PHẦN (TIẾP THEO)
+
+Điều 18. Tiêu chí xử lý học vụ và các mức độ cảnh báo học tập
+1. Cảnh báo học tập (CBHT) là biện pháp nhắc nhở nhằm giúp sinh viên chấn chỉnh tinh thần học tập và có kế hoạch cải thiện kết quả. Việc xét cảnh báo học vụ được thực hiện định kỳ vào cuối mỗi học kỳ chính.
+2. Sinh viên bị xử lý cảnh báo học tập nếu rơi vào một trong các trường hợp sau:
+a) Điểm trung bình chung học kỳ (GPA) đạt dưới 1.20 đối với học kỳ đầu tiên của khóa học; đạt dưới 1.40 đối với các học kỳ tiếp theo;
+b) Điểm trung bình chung tích lũy (CPA) đạt dưới 1.60 đối với sinh viên năm thứ nhất; dưới 1.80 đối với sinh viên năm thứ hai; dưới 2.00 đối với sinh viên từ năm thứ ba trở đi;
+c) Tổng số tín chỉ nợ đọng không đạt (tích lũy điểm F) vượt quá 24 tín chỉ tính từ đầu khóa học;
+d) Không đăng ký đủ số lượng tín chỉ tối thiểu theo quy định trong học kỳ chính mà không có sự cho phép của Phòng Đào tạo.
+3. Hệ thống cảnh báo gồm 03 mức độ liên tiếp:
+- Cảnh báo học tập mức 1 (CBHT 1): Gửi thông báo đến sinh viên và Cố vấn học tập, giới hạn số tín chỉ đăng ký học kỳ tới từ 10 đến 14 TC;
+- Cảnh báo học tập mức 2 (CBHT 2): Gửi thông báo chính thức về gia đình sinh viên, bắt buộc sinh viên phải tham gia phiên tư vấn học vụ đặc biệt;
+- Cảnh báo học tập mức 3 (CBHT 3): Đưa vào danh sách xem xét buộc thôi học.
+
+Điều 19. Các trường hợp sinh viên bị buộc thôi học
+1. Sinh viên bị buộc thôi học (xóa tên khỏi danh sách sinh viên của trường) nếu thuộc một trong các vi phạm sau:
+a) Bị cảnh báo học tập mức 2 ở hai học kỳ liên tiếp mà không cải thiện được kết quả (hoặc bị 03 lần cảnh báo học tập trong cả khóa học);
+b) Vượt quá thời gian đào tạo tối đa cho phép của khóa học theo quy định tại Điều 4;
+c) Tự ý bỏ học không đăng ký học phần, không nộp đơn xin tạm dừng hoặc không đóng học phí trong vòng 04 tuần kể từ ngày bắt đầu học kỳ;
+d) Bị kỷ luật ở mức buộc thôi học do vi phạm pháp luật hoặc vi phạm quy chế thi cử, đạo đức nghiêm trọng.
+2. Quyết định buộc thôi học do Hiệu trưởng ký ban hành và được công bố công khai, đồng thời gửi thông báo văn bản về địa phương và gia đình sinh viên.
+
+--- PAGE 10 | student-handbook-2024 | to_chuc_dao_tao_tin_chi | 2024 ---
+CHƯƠNG III: TỔ CHỨC ĐÀO TẠO VÀ ĐĂNG KÝ HỌC PHẦN (TIẾP THEO)
+
+Điều 20. Nguyên tắc công nhận và chuyển đổi tín chỉ học phần
+1. Nhà trường công nhận và cho phép chuyển đổi tín chỉ đối với các học phần mà sinh viên đã tích lũy tại các cơ sở giáo dục đại học khác hợp pháp trong và ngoài nước, hoặc giữa các chương trình đào tạo khác nhau trong cùng trường.
+2. Điều kiện để học phần được xem xét chuyển đổi:
+a) Đề cương chi tiết của học phần đã học phải có nội dung tương thích tối thiểu 75% so với đề cương học phần tương ứng của chương trình đang theo học;
+b) Số tín chỉ của học phần đã học phải bằng hoặc lớn hơn số tín chỉ của học phần đề nghị công nhận;
+c) Điểm số học phần đã học phải đạt từ điểm C (hoặc từ 5.5 trên thang điểm 10) trở lên;
+d) Thời gian kể từ khi hoàn thành học phần đến thời điểm nộp đơn xin chuyển đổi không được quá 05 năm.
+3. Tổng khối lượng tín chỉ được công nhận chuyển đổi tối đa không vượt quá 50% tổng số tín chỉ của chương trình đào tạo sinh viên đang theo học.
+
+Điều 21. Quy trình thẩm định hồ sơ miễn học và chuyển điểm
+1. Hồ sơ xin công nhận tương đương nộp về Phòng Đào tạo bao gồm:
+a) Đơn xin chuyển đổi tín chỉ học phần theo mẫu chuẩn;
+b) Bảng điểm chính thức có xác nhận đóng dấu của cơ sở đào tạo trước đó;
+c) Bản sao có công chứng đề cương chi tiết môn học của trường cấp điểm.
+2. Hội đồng chuyên môn của Khoa quản lý ngành sẽ tổ chức đánh giá đối sánh đề cương trong vòng 15 ngày làm việc và đưa ra kết luận: Công nhận tương đương chuyển điểm, hoặc Công nhận miễn học nhưng phải học môn thay thế, hoặc Không công nhận.
+3. Các học phần được chuyển đổi tương đương sẽ được ghi nhận điểm số chuyển đổi trên bảng điểm học vụ kèm ghi chú 'Chuyển điểm' và được tính vào tổng số tín chỉ tích lũy để xét điều kiện tốt nghiệp.
+
+--- PAGE 11 | student-handbook-2024 | danh_gia_hoc_phan_thi_cu | 2024 ---
+CHƯƠNG IV: KIỂM TRA, THI VÀ ĐÁNH GIÁ HỌC PHẦN
+
+Điều 22. Cấu trúc điểm học phần và tỷ trọng thành phần
+1. Kết quả học tập của sinh viên trong một học phần được đánh giá toàn diện qua nhiều thành phần điểm độc lập, phản ánh suốt quá trình học tập và năng lực cuối kỳ.
+2. Các thành phần điểm cơ bản của một học phần tiêu chuẩn gồm:
+a) Điểm đánh giá bộ phận (điểm quá trình): Chiếm từ 40% đến 50% trọng số điểm tổng kết học phần, bao gồm:
+- Điểm chuyên cần và ý thức tham gia lớp học: 10%;
+- Điểm bài tập thường xuyên, tiểu luận hoặc thuyết trình: 15% đến 20%;
+- Điểm kiểm tra giữa kỳ (thi viết, trắc nghiệm hoặc bài tập lớn): 15% đến 20%.
+b) Điểm thi kết thúc học phần: Chiếm từ 50% đến 60% trọng số điểm tổng kết học phần.
+3. Đối với các học phần thí nghiệm, thực hành kỹ thuật chuyên sâu: Điểm học phần được tính dựa trên 100% điểm thực hành tại phòng lab qua các bài báo cáo thí nghiệm định kỳ và bài thi kỹ năng thực hành cuối khóa.
+4. Tỷ trọng cụ thể của từng thành phần điểm được giảng viên công bố công khai cho sinh viên trong buổi học đầu tiên và ghi rõ trong Đề cương chi tiết học phần đã được phê duyệt. Giảng viên không được tự ý thay đổi tỷ trọng sau khi học kỳ đã bắt đầu.
+
+Điều 23. Công bố và kiểm tra điểm quá trình
+1. Giảng viên phụ trách học phần có trách nhiệm hoàn thành việc chấm bài và nhập điểm thành phần quá trình lên hệ thống quản lý đào tạo trước khi tổ chức thi kết thúc học phần ít nhất 07 ngày làm việc.
+2. Sinh viên có quyền đối chiếu, kiểm tra điểm quá trình và phản hồi trực tiếp với giảng viên trong vòng 03 ngày kể từ khi công bố. Nếu phát hiện có sự nhầm lẫn hoặc sai sót trong khâu tính toán, giảng viên sẽ lập biên bản điều chỉnh điểm gửi về Ban Chủ nhiệm Khoa ký duyệt. Quá thời hạn này, điểm quá trình sẽ bị khóa trên hệ thống và không được phép tự ý thay đổi.
+
+--- PAGE 12 | student-handbook-2024 | danh_gia_hoc_phan_thi_cu | 2024 ---
+CHƯƠNG IV: KIỂM TRA, THI VÀ ĐÁNH GIÁ HỌC PHẦN (TIẾP THEO)
+
+Điều 24. Quy đổi điểm số giữa thang điểm 10, thang điểm chữ và thang điểm 4
+1. Điểm tổng kết học phần được tính theo thang điểm 10 (làm tròn đến một chữ số thập phân), sau đó được hệ thống tự động quy đổi sang thang điểm chữ và thang điểm 4 theo bảng chuẩn sau:
+a) Đạt loại Xuất sắc:
+- Điểm 10 từ 9.0 đến 10.0 -> Điểm chữ: A+ -> Thang điểm 4: 4.0;
+b) Đạt loại Giỏi:
+- Điểm 10 từ 8.5 đến 8.9 -> Điểm chữ: A -> Thang điểm 4: 3.7;
+- Điểm 10 từ 8.0 đến 8.4 -> Điểm chữ: B+ -> Thang điểm 4: 3.5;
+c) Đạt loại Khá:
+- Điểm 10 từ 7.0 đến 7.9 -> Điểm chữ: B -> Thang điểm 4: 3.0;
+- Điểm 10 từ 6.5 đến 6.9 -> Điểm chữ: C+ -> Thang điểm 4: 2.5;
+d) Đạt loại Trung bình:
+- Điểm 10 từ 5.5 đến 6.4 -> Điểm chữ: C -> Thang điểm 4: 2.0;
+- Điểm 10 từ 5.0 đến 5.4 -> Điểm chữ: D+ -> Thang điểm 4: 1.5;
+e) Đạt loại Trung bình yếu (vừa đủ qua môn):
+- Điểm 10 từ 4.0 đến 4.9 -> Điểm chữ: D -> Thang điểm 4: 1.0;
+f) Không đạt (trượt môn, phải học lại):
+- Điểm 10 dưới 4.0 -> Điểm chữ: F -> Thang điểm 4: 0.0.
+
+Điều 25. Phân loại học lực sinh viên theo điểm trung bình chung tích lũy (CPA)
+1. Học lực của sinh viên được xếp loại vào cuối mỗi học kỳ và khi tốt nghiệp căn cứ vào điểm trung bình chung tích lũy (CPA) theo thang điểm 4:
+a) Loại Xuất sắc: CPA đạt từ 3.60 đến 4.00;
+b) Loại Giỏi: CPA đạt từ 3.20 đến 3.59;
+c) Loại Khá: CPA đạt từ 2.50 đến 3.19;
+d) Loại Trung bình: CPA đạt từ 2.00 đến 2.49;
+e) Loại Yếu: CPA đạt từ 1.00 đến 1.99;
+f) Loại Kém: CPA đạt dưới 1.00.
+2. Sinh viên có học lực loại Kém hoặc Yếu liên tiếp sẽ bị xử lý học vụ theo các điều khoản quy định tại Điều 18.
+
+--- PAGE 13 | student-handbook-2024 | danh_gia_hoc_phan_thi_cu | 2024 ---
+CHƯƠNG IV: KIỂM TRA, THI VÀ ĐÁNH GIÁ HỌC PHẦN (TIẾP THEO)
+
+Điều 26. Quy trình tổ chức thi và quản lý đề thi kết thúc học phần
+1. Kỳ thi kết thúc học phần được tổ chức tập trung vào cuối mỗi học kỳ theo lịch thi chung do Phòng Khảo thí và Đảm bảo chất lượng ban hành. Lịch thi chính thức được công bố trước ngày thi môn đầu tiên tối thiểu 20 ngày.
+2. Hình thức thi kết thúc học phần bao gồm: Thi tự luận viết tay, thi trắc nghiệm khách quan trên máy tính, thi vấn đáp trực tiếp, hoặc bảo vệ bài tập lớn/tiểu luận theo nhóm.
+3. Đề thi được rút ngẫu nhiên từ Ngân hàng câu hỏi thi chuẩn hóa của Nhà trường hoặc do Bộ môn xây dựng theo ma trận đề đã được Hội đồng khoa học duyệt. Mỗi ca thi viết phải có ít nhất 02 đề thi tương đương (Đề chẵn và Đề lẻ) để đảm bảo tính khách quan trong phòng thi.
+4. Thời gian làm bài thi tự luận thông thường là 60 phút, 90 phút hoặc tối đa 120 phút tùy theo khối lượng kiến thức của học phần.
+
+Điều 27. Trách nhiệm của cán bộ coi thi và quy chế phòng thi
+1. Mỗi phòng thi có từ 25 đến 40 sinh viên và bắt buộc phải bố trí tối thiểu 02 cán bộ coi thi (CBCT), trong đó có 01 CBCT là giảng viên ngoài bộ môn giảng dạy môn thi đó để chống tiêu cực.
+2. Trách nhiệm của sinh viên khi vào phòng thi:
+a) Có mặt trước cửa phòng thi trước giờ phát đề thi tối thiểu 15 phút. Sinh viên đến muộn quá 15 phút kể từ thời điểm tính giờ làm bài sẽ không được vào phòng thi và nhận điểm 0 cho kỳ thi đó;
+b) Xuất trình Thẻ sinh viên hoặc Căn cước công dân gắn chip hợp lệ cho cán bộ coi thi kiểm tra. Nghiêm cấm mọi hành vi nhờ người thi hộ;
+c) Chỉ được mang vào phòng thi các vật dụng được phép: Bút viết, bút chì, thước kẻ, compa, tẩy và máy tính bỏ túi nằm trong danh mục Bộ GD&ĐT cho phép không có chức năng soạn thảo văn bản và không có thẻ nhớ.
+d) Tuyệt đối không mang điện thoại di động, đồng hồ thông minh, thiết bị thu phát sóng điện tử hoặc tài liệu giấy trái phép vào phòng thi. Thiết bị phải tắt nguồn và để tại khu vực quy định đầu phòng thi.
+
+--- PAGE 14 | student-handbook-2024 | danh_gia_hoc_phan_thi_cu | 2024 ---
+CHƯƠNG IV: KIỂM TRA, THI VÀ ĐÁNH GIÁ HỌC PHẦN (TIẾP THEO)
+
+Điều 28. Quy trình làm phách và chấm thi tập trung
+1. Toàn bộ bài thi viết tự luận kết thúc học phần sau khi thu tại phòng thi đều được niêm phong và bàn giao cho Ban Làm phách của Phòng Khảo thí. Bài thi được cắt phách, đánh số phách ngẫu nhiên trước khi giao cho cán bộ chấm thi.
+2. Chấm thi viết được thực hiện chấm 2 vòng độc lập bởi 02 giảng viên khác nhau theo thang điểm và đáp án chi tiết đã duyệt:
+a) Nếu điểm giữa 2 vòng chấm chênh lệch dưới 0.5 điểm: Cán bộ chấm thi thống nhất lấy điểm trung bình;
+b) Nếu điểm chênh lệch từ 0.5 đến 1.0 điểm: Hai cán bộ chấm thi đối thoại trực tiếp để thống nhất điểm số;
+c) Nếu chênh lệch trên 1.0 điểm hoặc không thống nhất được: Trưởng bộ môn sẽ phân công cán bộ chấm thi thứ ba chấm độc lập và quyết định điểm chính thức.
+3. Thời hạn công bố điểm thi kết thúc học phần: Chậm nhất 10 ngày làm việc kể từ ngày ca thi kết thúc, điểm thi phải được nhập lên hệ thống Portal.
+
+Điều 29. Quyền phúc khảo bài thi và giải quyết khiếu nại của sinh viên
+1. Sinh viên có quyền nộp đơn xin phúc khảo bài thi kết thúc học phần nếu nhận thấy điểm số công bố chưa phản ánh đúng bài làm thực tế của mình.
+2. Thời hạn nộp đơn phúc khảo: Trong vòng 07 ngày làm việc kể từ ngày điểm thi được công bố chính thức trên Portal học vụ. Sau thời hạn này, Nhà trường không tiếp nhận bất kỳ đơn phúc khảo nào.
+3. Lệ phí phúc khảo là 50.000 VNĐ/bài thi. Nếu sau khi phúc khảo điểm thi được điều chỉnh tăng từ 0.5 điểm trở lên do lỗi chấm sót hoặc cộng nhầm điểm, sinh viên sẽ được hoàn lại 100% lệ phí phúc khảo đã nộp.
+4. Hội đồng phúc khảo tiến hành rút bài thi, kiểm tra số phách và phân công 02 giảng viên độc lập chấm lại. Kết quả phúc khảo được công bố trong vòng 15 ngày làm việc và là điểm chính thức cuối cùng của sinh viên.
+
+--- PAGE 15 | student-handbook-2024 | danh_gia_hoc_phan_thi_cu | 2024 ---
+CHƯƠNG IV: KIỂM TRA, THI VÀ ĐÁNH GIÁ HỌC PHẦN (TIẾP THEO)
+
+Điều 30. Thủ tục xin hoãn thi và các trường hợp được chấp thuận
+1. Sinh viên không thể tham dự kỳ thi kết thúc học phần theo lịch đã công bố được quyền nộp đơn xin hoãn thi nếu thuộc một trong các trường hợp bất khả kháng sau:
+a) Bị ốm đau cấp tính, tai nạn phải nằm viện điều trị, có giấy xác nhận và hồ sơ bệnh án của cơ sở y tế cấp quận/huyện trở lên;
+b) Gia đình có tang tứ thân phụ mẫu (cha mẹ ruột, cha mẹ nuôi hợp pháp, vợ/chồng, con cái, anh chị em ruột) trong thời gian diễn ra kỳ thi;
+c) Được Nhà trường cử đi tham gia công tác xã hội đột xuất, cứu hộ thiên tai hoặc đại diện Nhà trường đi thi đấu quốc tế;
+d) Trùng lịch thi giữa hai học phần do lỗi sắp xếp thời khóa biểu của hệ thống đào tạo.
+2. Hồ sơ xin hoãn thi phải nộp về Phòng Khảo thí trước giờ thi ít nhất 01 ngày. Trường hợp tai nạn đột xuất trên đường đi thi, hồ sơ phải được nộp bổ sung trong vòng 03 ngày làm việc sau ngày thi.
+3. Sinh viên được chấp thuận hoãn thi sẽ nhận điểm 'I' (Incomplete) tạm thời cho môn học đó. Điểm 'I' không tính vào điểm GPA hay CPA của học kỳ đó.
+
+Điều 31. Quy định về việc tổ chức thi bù cho sinh viên có điểm 'I'
+1. Sinh viên được tạm hoãn thi nhận điểm 'I' có trách nhiệm theo dõi và tham dự kỳ thi bù ở kỳ thi kết thúc học phần của học kỳ chính tiếp theo hoặc đợt thi phụ gần nhất do Phòng Khảo thí tổ chức.
+2. Thời hạn hoàn thành thi bù: Không quá 01 học kỳ chính kế tiếp. Nếu quá thời hạn này mà sinh viên không tham dự thi bù mà không có lý do được Ban Giám hiệu chấp thuận, điểm 'I' sẽ tự động chuyển thành điểm F (0.0 điểm).
+3. Khi sinh viên hoàn thành bài thi bù, giảng viên sẽ tính lại điểm tổng kết môn học bằng cách kết hợp điểm quá trình cũ với điểm thi bù mới và cập nhật điểm chính thức vào hệ thống học vụ.
+
+--- PAGE 16 | student-handbook-2024 | danh_gia_hoc_phan_thi_cu | 2024 ---
+CHƯƠNG IV: KIỂM TRA, THI VÀ ĐÁNH GIÁ HỌC PHẦN (TIẾP THEO)
+
+Điều 32. Các mức độ xử lý kỷ luật đối với sinh viên vi phạm quy chế thi
+1. Sinh viên vi phạm quy chế phòng thi tùy theo tính chất và mức độ sẽ bị xử lý theo một trong các hình thức kỷ luật sau:
+a) Khiển trách phòng thi: Áp dụng đối với sinh viên phạm lỗi một lần như nhìn bài, trao đổi với người khác hoặc quay cóp sau khi đã được nhắc nhở. Sinh viên bị khiển trách trong môn thi nào sẽ bị trừ 25% tổng số điểm của bài thi môn đó;
+b) Cảnh cáo phòng thi: Áp dụng đối với sinh viên đã bị khiển trách mà tái phạm trong cùng một buổi thi, hoặc mang tài liệu trái phép vào chỗ ngồi nhưng chưa sử dụng, hoặc đưa bài thi cho người khác chép. Sinh viên bị cảnh cáo sẽ bị trừ 50% số điểm bài thi môn đó;
+c) Đình chỉ thi và hủy kết quả: Áp dụng đối với sinh viên mang điện thoại di động hoặc thiết bị phát sóng vào phòng thi (dù tắt hay mở máy), sử dụng tài liệu phao thi, xé bài thi, phát tán đề thi ra bên ngoài. Sinh viên bị đình chỉ thi nhận điểm 0 cho môn thi đó và bị trừ 1 bậc xếp loại rèn luyện trong học kỳ.
+
+Điều 33. Xử lý hành vi thi hộ, nhờ người thi hộ và làm giả giấy tờ
+1. Hành vi thi hộ hoặc nhờ người khác thi hộ là vi phạm đặc biệt nghiêm trọng tính liêm chính học thuật. Cả người nhờ thi hộ và người đi thi hộ (nếu là sinh viên của trường) đều bị xử lý kỷ luật theo khung sau:
+a) Vi phạm lần thứ nhất: Bị kỷ luật đình chỉ học tập 01 năm học (buộc nghỉ học 2 học kỳ chính) và thông báo công khai toàn trường;
+b) Vi phạm lần thứ hai: Bị kỷ luật ở mức buộc thôi học vĩnh viễn và gửi văn bản thông báo về địa phương và gia đình.
+2. Nếu người thi hộ không phải là sinh viên của trường, Nhà trường sẽ chuyển giao toàn bộ hồ sơ và bằng chứng cho cơ quan công an xử lý theo quy định của pháp luật về hành vi gian lận và sử dụng giấy tờ giả.
+
+--- PAGE 17 | student-handbook-2024 | hoc_phi_mien_giam_hoc_bong | 2024 ---
+CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG
+
+Điều 34. Định mức học phí tín chỉ và phương thức thanh toán năm học 2024
+1. Học phí của sinh viên hệ chính quy được tính theo khối lượng tín chỉ thực tế mà sinh viên đăng ký trong từng học kỳ. Mức học phí cho 01 tín chỉ trong năm học 2024 áp dụng như sau:
+a) Khối ngành Khoa học xã hội và Kinh tế: 450.000 VNĐ / tín chỉ;
+b) Khối ngành Khoa học tự nhiên, Công nghệ thông tin và Kỹ thuật: 520.000 VNĐ / tín chỉ;
+c) Các học phần thực hành, thí nghiệm chuyên sâu có phụ thu chi phí tiêu hao vật tư: thêm 15% đơn giá tín chỉ lý thuyết;
+d) Chương trình đào tạo chất lượng cao: 850.000 VNĐ / tín chỉ.
+2. Phương thức thu nộp học phí: Nhà trường thực hiện thu học phí 100% qua hình thức thanh toán trực tuyến không dùng tiền mặt, bao gồm: Cổng thanh toán ngân hàng liên kết trên Portal, chuyển khoản qua tài khoản định danh sinh viên (Virtual Account) hoặc ứng dụng ví điện tử đối tác.
+
+Điều 35. Thời hạn nộp học phí và chế tài xử lý nợ học phí
+1. Thời hạn nộp học phí: Sinh viên phải hoàn thành nghĩa vụ nộp học phí trong vòng 06 tuần kể từ ngày bắt đầu học kỳ chính (hoặc trong 02 tuần đối với học kỳ hè). Lịch thu chi tiết được Phòng Kế hoạch - Tài chính thông báo đầu mỗi kỳ.
+2. Gia hạn nộp học phí: Sinh viên có hoàn cảnh đặc biệt khó khăn được quyền làm đơn xin gia hạn nộp học phí (nộp kèm đơn xác nhận hoàn cảnh gia đình của chính quyền địa phương) chậm nhất vào tuần thứ 4 của học kỳ. Thời gian gia hạn tối đa không quá 04 tuần.
+3. Xử lý sinh viên nợ học phí quá hạn mà không có đơn gia hạn:
+a) Bị tước quyền dự thi kết thúc học phần của tất cả các môn học trong học kỳ đó;
+b) Bị khóa tài khoản đăng ký môn học cho học kỳ tiếp theo;
+c) Không được cấp bảng điểm, giấy xác nhận sinh viên hoặc chứng chỉ tốt nghiệp tạm thời cho đến khi hoàn thành toàn bộ công nợ tồn đọng.
+
+--- PAGE 18 | student-handbook-2024 | hoc_phi_mien_giam_hoc_bong | 2024 ---
+CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (TIẾP THEO)
+
+Điều 36. Đối tượng và mức độ miễn giảm học phí theo chính sách Nhà nước
+1. Đối tượng được miễn 100% học phí bao gồm:
+a) Sinh viên là con của liệt sĩ, con của thương binh mất sức lao động từ 81% trở lên, con của người hoạt động kháng chiến bị nhiễm chất độc hóa học suy giảm khả năng lao động từ 81% trở lên;
+b) Sinh viên khuyết tật nặng hoặc đặc biệt nặng có giấy xác nhận của cơ quan y tế có thẩm quyền;
+c) Sinh viên mồ côi cả cha lẫn mẹ, không nơi nương tựa theo quy định của Luật Trẻ em và Luật Trợ giúp xã hội;
+d) Sinh viên là người dân tộc thiểu số rất ít người (như Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Lô Lô...) sinh sống tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.
+2. Đối tượng được giảm 70% học phí: Sinh viên là người dân tộc thiểu số (ngoài các dân tộc rất ít người nêu trên) ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi.
+3. Đối tượng được giảm 50% học phí: Sinh viên là con của cán bộ, công chức, viên chức mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên; sinh viên thuộc hộ cận nghèo theo chuẩn nghèo đa chiều quốc gia.
+
+Điều 37. Hồ sơ và thủ tục xét hưởng chính sách miễn giảm học phí
+1. Hồ sơ xin miễn giảm học phí nộp định kỳ một lần cho cả năm học tại Phòng Công tác Sinh viên trong vòng 30 ngày kể từ ngày bắt đầu năm học. Hồ sơ bao gồm:
+a) Đơn đề nghị miễn, giảm học phí theo mẫu quy định của Bộ Lao động - Thương binh và Xã hội;
+b) Bản sao công chứng thẻ Căn cước công dân và Giấy khai sinh;
+c) Giấy xác nhận đối tượng chính sách hợp lệ do cơ quan có thẩm quyền cấp (Sổ hộ nghèo/cận nghèo, Giấy chứng nhận thương bệnh binh, Giấy xác nhận khuyết tật).
+2. Tiền miễn giảm học phí được Nhà trường chi trả trực tiếp hoặc cấn trừ thẳng vào số học phí phải nộp của từng học kỳ sau khi có Quyết định phê duyệt danh sách chính thức.
+
+--- PAGE 19 | student-handbook-2024 | hoc_phi_mien_giam_hoc_bong | 2024 ---
+CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (TIẾP THEO)
+
+Điều 38. Quỹ học bổng và các mức học bổng khuyến khích học tập năm 2024
+1. Quỹ học bổng Khuyến khích học tập (KKHT) được trích tối thiểu 8% từ nguồn thu học phí hệ chính quy hàng năm để khen thưởng các sinh viên có thành tích xuất sắc và giỏi trong học tập và rèn luyện.
+2. Học bổng KKHT được xét cấp theo từng học kỳ chính (Học kỳ I và Học kỳ II) với 03 định mức cụ thể năm 2024 như sau:
+a) Mức học bổng loại Xuất sắc: Bằng 120% mức học phí chuẩn của ngành học trong học kỳ;
+b) Mức học bổng loại Giỏi: Bằng 100% mức học phí chuẩn của ngành học trong học kỳ;
+c) Mức học bổng loại Khá: Bằng 80% mức học phí chuẩn của ngành học trong học kỳ.
+3. Không xét cấp học bổng KKHT trong học kỳ hè và các học kỳ sinh viên đi trao đổi tín chỉ ở trường đại học khác có học bổng toàn phần.
+
+Điều 39. Điều kiện và nguyên tắc phân bổ học bổng KKHT
+1. Điều kiện tiên quyết để sinh viên được đưa vào danh sách xét học bổng KKHT:
+a) Phải đăng ký và tích lũy tối thiểu 15 tín chỉ trong học kỳ chính đang xét (không tính các tín chỉ học lại hoặc học cải thiện);
+b) Điểm rèn luyện của học kỳ xét học bổng phải đạt từ loại Tốt (80 điểm trở lên);
+c) Không có bất kỳ học phần nào bị điểm F (trượt môn) hoặc bị kỷ luật từ mức khiển trách trở lên trong học kỳ xét học bổng.
+2. Tiêu chuẩn phân loại học bổng:
+- Học bổng loại Xuất sắc: Điểm trung bình học kỳ GPA đạt từ 3.60 đến 4.00 VÀ Điểm rèn luyện đạt từ 90 điểm trở lên (loại Xuất sắc);
+- Học bổng loại Giỏi: Điểm trung bình học kỳ GPA đạt từ 3.20 đến 3.59 VÀ Điểm rèn luyện đạt từ 80 điểm trở lên (loại Tốt);
+- Học bổng loại Khá: Điểm trung bình học kỳ GPA đạt từ 2.50 đến 3.19 VÀ Điểm rèn luyện đạt từ 70 điểm trở lên (loại Khá).
+3. Nguyên tắc xét cấp: Quỹ học bổng được phân bổ về từng Khoa/Viện theo tỷ lệ số lượng sinh viên. Hội đồng xét duyệt sẽ lấy điểm GPA từ cao xuống thấp cho đến khi hết quỹ học bổng của ngành học đó.
+
+--- PAGE 20 | student-handbook-2024 | hoc_phi_mien_giam_hoc_bong | 2024 ---
+CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (TIẾP THEO)
+
+Điều 40. Học bổng tài trợ từ các tổ chức, doanh nghiệp đối tác
+1. Hàng năm, Nhà trường phối hợp cùng các tập đoàn công nghệ, ngân hàng và đối tác doanh nghiệp trong và ngoài nước trao tặng hàng trăm suất học bổng tài trợ với các mục đích: Khuyến khích tài năng trẻ, Hỗ trợ sinh viên vượt khó học giỏi, và Ươm mầm nghiên cứu khoa học.
+2. Tiêu chí xét chọn học bổng doanh nghiệp do đơn vị tài trợ quyết định và phối hợp với Phòng Hợp tác Doanh nghiệp & Công tác Sinh viên công bố công khai. Thông thường bao gồm:
+a) Thành tích học tập đạt loại Khá, Giỏi trở lên;
+b) Có công trình nghiên cứu khoa học, đạt giải thưởng sáng tạo hoặc giải thưởng Olympic quốc gia;
+c) Vượt qua vòng phỏng vấn trực tiếp bằng tiếng Anh của đại diện doanh nghiệp tài trợ.
+3. Sinh viên được quyền nhận cùng lúc Học bổng khuyến khích học tập của Nhà trường và Học bổng tài trợ của doanh nghiệp, trừ khi quy chế của nhà tài trợ có quy định loại trừ cụ thể.
+
+Điều 41. Quỹ hỗ trợ sinh viên khẩn cấp và vay vốn tín dụng học tập
+1. Quỹ Hỗ trợ khẩn cấp được thành lập nhằm kịp thời hỗ trợ sinh viên gặp biến cố đột xuất trong cuộc sống: Mắc bệnh hiểm nghèo, tai nạn nghiêm trọng, gia đình bị thiệt hại nặng nề do thiên tai bão lũ hỏa hoạn.
+2. Mức hỗ trợ khẩn cấp dao động từ 3.000.000 VNĐ đến 15.000.000 VNĐ tùy theo mức độ thiệt hại thực tế do Hội đồng thẩm định quyết định.
+3. Chương trình tín dụng đào tạo: Nhà trường phối hợp với Ngân hàng Chính sách Xã hội hỗ trợ xác nhận hồ sơ để sinh viên được vay vốn ưu đãi học tập theo Quyết định 157/2007/QĐ-TTg của Thủ tướng Chính phủ với mức vay tối đa 4.000.000 VNĐ/tháng, lãi suất ưu đãi và chỉ phải bắt đầu trả nợ sau khi tốt nghiệp ra trường có việc làm.
+
+--- PAGE 21 | student-handbook-2025 | hoc_phi_mien_giam_hoc_bong | 2025 ---
+CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (QUY ĐỊNH MỚI NĂM 2025)
+
+Điều 42. Cải cách định mức và cơ cấu Quỹ học bổng khuyến khích học tập năm 2025
+1. Nhằm nâng cao động lực thi đua học thuật và nghiên cứu sáng tạo, từ học kỳ I năm học 2025, Nhà trường nâng tỷ lệ trích lập Quỹ học bổng KKHT từ 8% lên mức 10% tổng nguồn thu học phí chính quy.
+2. Điều chỉnh mức tiền thưởng học bổng KKHT năm 2025 áp dụng các mức trần mới như sau:
+a) Học bổng loại Xuất sắc (Cực kỳ xuất sắc): Bằng 130% mức học phí học kỳ (tăng 10% so với quy định năm 2024);
+b) Học bổng loại Giỏi: Bằng 110% mức học phí học kỳ (tăng 10% so với quy định năm 2024);
+c) Học bổng loại Khá: Bằng 85% mức học phí học kỳ (tăng 5% so với quy định năm 2024).
+3. Bổ sung Học bổng Danh dự Hiệu trưởng (President's Honor Scholarship) dành riêng cho top 1% sinh viên có điểm GPA tuyệt đối 4.00 và có bài báo công bố trên tạp chí khoa học quốc tế Scopus/WoS với mức thưởng cố định 25.000.000 VNĐ/học kỳ kèm bằng khen vinh danh.
+
+Điều 43. Tiêu chí mới về điểm nghiên cứu khoa học và chuẩn ngoại ngữ năm 2025
+1. Từ năm học 2025, để đủ điều kiện xét học bổng Xuất sắc, sinh viên bắt buộc phải có thêm điểm cộng hoạt động nghiên cứu khoa học: Đạt giải Nghiên cứu khoa học sinh viên cấp Khoa trở lên, hoặc tham gia đề tài khoa học các cấp, hoặc có bài báo cáo tại hội thảo chuyên ngành.
+2. Yêu cầu chứng chỉ ngoại ngữ bắt buộc đối với học bổng loại Giỏi và Xuất sắc từ khóa tuyển sinh 2025:
+a) Sinh viên năm thứ hai trở đi phải nộp chứng chỉ tiếng Anh quốc tế tối thiểu IELTS 6.0 hoặc TOEIC 650 điểm mới được xét duyệt học bổng loại Giỏi;
+b) Yêu cầu tối thiểu IELTS 6.5 hoặc TOEIC 750 điểm đối với học bổng loại Xuất sắc.
+3. Sinh viên vi phạm quy định về đạo đức liêm chính học thuật (sử dụng công cụ trí tuệ nhân tạo để đạo văn bài tập lớn hoặc sao chép báo cáo tiểu luận) sẽ bị loại vĩnh viễn khỏi danh sách xét học bổng trong toàn bộ khóa học.
+
+--- PAGE 22 | student-handbook-2025 | hoc_phi_mien_giam_hoc_bong | 2025 ---
+CHƯƠNG V: HỌC PHÍ, MIỄN GIẢM VÀ HỌC BỔNG (QUY ĐỊNH MỚI NĂM 2025 - TIẾP THEO)
+
+Điều 44. Biểu mức học phí tín chỉ cập nhật cho năm học 2025 - 2026
+1. Căn cứ lộ trình tự chủ đại học và Nghị định số 81/2021/NĐ-CP của Chính phủ, Nhà trường công bố biểu mức học phí tín chỉ cập nhật áp dụng từ Học kỳ I năm học 2025:
+a) Khối ngành Khoa học xã hội, Kinh tế và Luật: 490.000 VNĐ / tín chỉ (điều chỉnh tăng 8.8% so với năm 2024);
+b) Khối ngành Kỹ thuật, Công nghệ thông tin, Khoa học dữ liệu và Trí tuệ nhân tạo: 580.000 VNĐ / tín chỉ (điều chỉnh tăng 11.5% so với năm 2024);
+c) Chương trình đào tạo Kỹ sư chuyên sâu đặc thù và Chất lượng cao: 950.000 VNĐ / tín chỉ;
+d) Học phí các học phần kỹ năng mềm và thực hành chuyển đổi số: Áp dụng mức cố định 600.000 VNĐ / tín chỉ.
+2. Chính sách cam kết ổn định học phí: Nhà trường cam kết mức tăng học phí của các năm tiếp theo trong toàn khóa học không vượt quá 10%/năm theo đúng quy định của Nhà nước.
+
+Điều 45. Chính sách hoàn phí và bảo lưu tài chính mới áp dụng năm 2025
+1. Trường hợp sinh viên có đơn xin thôi học hoặc tạm dừng học tập hợp lệ trong năm học 2025:
+a) Nộp đơn trước ngày khai giảng chính thức của học kỳ: Được hoàn lại 100% số học phí đã đóng;
+b) Nộp đơn trong vòng 02 tuần đầu tiên của học kỳ: Được hoàn lại 70% số học phí đã đóng (năm 2024 chỉ hoàn 50%);
+c) Nộp đơn từ tuần thứ 3 đến hết tuần thứ 4 của học kỳ: Được hoàn lại 40% học phí hoặc được phép bảo lưu 60% số tiền học phí đã đóng sang học kỳ tiếp theo khi quay trở lại học;
+d) Nộp đơn sau tuần thứ 4 của học kỳ: Không được hoàn trả học phí và không được bảo lưu tài chính.
+2. Toàn bộ tiền hoàn học phí được chuyển khoản trả lại sinh viên qua số tài khoản ngân hàng chính chủ đã đăng ký trên Portal trong thời hạn tối đa 15 ngày làm việc kể từ ngày có Quyết định phê duyệt.
+
+--- PAGE 23 | student-handbook-2024 | khoa_luan_do_an_tot_nghiep | 2024 ---
+CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP
+
+Điều 46. Tiêu chuẩn và điều kiện đăng ký làm Khóa luận tốt nghiệp (KLTN)
+1. Khóa luận tốt nghiệp (hoặc Đồ án tốt nghiệp đối với khối kỹ thuật) là học phần đặc biệt có khối lượng từ 06 đến 10 tín chỉ, thực hiện ở học kỳ cuối cùng nhằm đánh giá tổng hợp năng lực chuyên môn và tư duy nghiên cứu độc lập của sinh viên.
+2. Sinh viên được đăng ký làm KLTN khi đáp ứng đầy đủ tất cả các điều kiện tiên quyết sau:
+a) Đã tích lũy tối thiểu 80% tổng số tín chỉ của toàn bộ chương trình đào tạo của ngành học;
+b) Điểm trung bình chung tích lũy (CPA) tính đến thời điểm xét làm khóa luận đạt từ 2.65 trở lên trên thang điểm 4.0;
+c) Đã hoàn thành và đạt điểm tất cả các học phần tiên quyết, học phần phương pháp nghiên cứu khoa học và học phần thực tập chuyên ngành;
+d) Không đang trong thời gian bị kỷ luật từ mức khiển trách trở lên và không bị cảnh báo học tập.
+3. Sinh viên không đủ điều kiện làm KLTN theo quy định tại Khoản 2 sẽ phải đăng ký học tích lũy các học phần chuyên môn thay thế tương đương với số tín chỉ của KLTN (từ 2 đến 3 môn học chuyên ngành tự chọn nâng cao) và làm bài tập lớn tốt nghiệp.
+
+Điều 47. Hình thức thực hiện và thời gian làm đồ án / khóa luận
+1. KLTN có thể được thực hiện bởi cá nhân sinh viên hoặc theo nhóm không quá 02 sinh viên đối với các đề tài liên ngành hoặc có khối lượng phát triển sản phẩm kỹ thuật lớn. Mỗi sinh viên trong nhóm phải có bản phân công nhiệm vụ chi tiết và chịu trách nhiệm độc lập về phần công việc của mình.
+2. Thời gian làm KLTN kéo dài tối thiểu 15 tuần kể từ ngày Nhà trường ký quyết định giao đề tài và phân công giảng viên hướng dẫn. Trong thời gian này, sinh viên phải dành toàn bộ thời gian để nghiên cứu và định kỳ báo cáo tiến độ với người hướng dẫn.
+
+--- PAGE 24 | student-handbook-2024 | khoa_luan_do_an_tot_nghiep | 2024 ---
+CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)
+
+Điều 48. Phân công giảng viên hướng dẫn và trách nhiệm của sinh viên
+1. Mỗi sinh viên (hoặc nhóm sinh viên) làm KLTN được Nhà trường phân công 01 Giảng viên hướng dẫn chính có học vị từ Thạc sĩ trở lên (đối với đồ án công nghệ) hoặc Tiến sĩ trở lên (đối với đề tài định hướng hàn lâm). Trường hợp đề tài thực hiện tại doanh nghiệp, có thể bổ sung thêm 01 Cán bộ hướng dẫn đồng hành là chuyên gia doanh nghiệp.
+2. Trách nhiệm của sinh viên trong quá trình thực hiện KLTN:
+a) Gặp và làm việc trực tiếp với Giảng viên hướng dẫn tối thiểu 01 lần/tuần để báo cáo tiến độ và tiếp thu định hướng học thuật;
+b) Lập Sổ nhật ký nghiên cứu và ghi nhận đầy đủ các nội dung trao đổi, kết quả thử nghiệm;
+c) Tuyệt đối tuân thủ chuẩn mực đạo đức nghiên cứu, cấm mọi hành vi sao chép kết quả, bịa đặt số liệu hoặc sử dụng bài làm của người khác.
+
+Điều 49. Quy trình nộp quyển, kiểm tra đạo văn và chấm phản biện
+1. Sinh viên phải nộp 03 cuốn báo cáo KLTN bìa mềm và đĩa/file mềm lưu trữ mã nguồn, số liệu thô về Văn phòng Khoa trước ngày bảo vệ tối thiểu 10 ngày làm việc. Báo cáo phải có chữ ký đồng ý cho bảo vệ của Giảng viên hướng dẫn.
+2. Kiểm tra đạo văn (Plagiarism Check) bắt buộc:
+a) Toàn bộ cuốn báo cáo KLTN được quét qua phần mềm kiểm tra trùng lặp Turnitin do Nhà trường chỉ định;
+b) Tỷ lệ trùng lặp tương đồng (Similarity Index) tối đa cho phép là dưới 20% (sau khi đã loại bỏ danh mục tài liệu tham khảo và mẫu trang bìa);
+c) Nếu tỷ lệ trùng lặp từ 20% đến 30%, sinh viên được chỉnh sửa lại 01 lần trong vòng 05 ngày. Nếu tỷ lệ trùng lặp trên 30%, sinh viên bị đình chỉ bảo vệ ngay lập tức và nhận điểm 0 cho học phần KLTN.
+3. Chấm phản biện: Trưởng Khoa phân công 01 Giảng viên chấm phản biện độc lập. Người phản biện đánh giá tính khoa học, ứng dụng thực tế và cho điểm phản biện. Nếu điểm phản biện đạt từ 5.0 trở lên, sinh viên chính thức được phép ra Hội đồng bảo vệ.
+
+--- PAGE 25 | student-handbook-2024 | khoa_luan_do_an_tot_nghiep | 2024 ---
+CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)
+
+Điều 50. Thành phần và nguyên tắc làm việc của Hội đồng chấm KLTN
+1. Hội đồng chấm Khóa luận tốt nghiệp do Hiệu trưởng ra quyết định thành lập theo đề nghị của Trưởng Khoa. Mỗi hội đồng gồm từ 03 đến 05 thành viên, bao gồm: Chủ tịch hội đồng, Thư ký hội đồng, Ủy viên phản biện và các Ủy viên.
+2. Giảng viên hướng dẫn có thể tham dự buổi bảo vệ nhưng không được tham gia chấm điểm với tư cách thành viên hội đồng để đảm bảo tính công tâm khách quan.
+3. Phiên họp bảo vệ khóa luận chỉ được tiến hành khi có mặt ít nhất 3 thành viên hội đồng, trong đó bắt buộc phải có Chủ tịch hội đồng (hoặc Phó chủ tịch được ủy quyền) và Ủy viên phản biện.
+
+Điều 51. Trình tự bảo vệ và cơ cấu điểm số KLTN
+1. Trình tự một buổi bảo vệ của sinh viên trước hội đồng:
+a) Thư ký công bố quyết định thành lập hội đồng và lý lịch học tập tóm tắt của sinh viên;
+b) Sinh viên thuyết trình báo cáo kết quả nghiên cứu trong thời gian từ 15 đến 20 phút bằng trình chiếu PowerPoint và demo sản phẩm (nếu có);
+c) Ủy viên phản biện đọc bản nhận xét, chỉ ra những ưu điểm và hạn chế của đề tài, đặt các câu hỏi chuyên môn;
+d) Các thành viên khác trong hội đồng và người tham dự đặt câu hỏi thảo luận;
+e) Sinh viên trả lời các câu hỏi chất vấn trước hội đồng trong thời gian tối đa 15 phút;
+f) Hội đồng họp kín để đánh giá, cho điểm độc lập và công bố kết quả sơ bộ.
+2. Cơ cấu tính điểm tổng kết KLTN (thang điểm 10):
+- Điểm đánh giá của Giảng viên hướng dẫn: Chiếm 30% tổng số điểm;
+- Điểm đánh giá của Giảng viên phản biện: Chiếm 20% tổng số điểm;
+- Điểm đánh giá trung bình của các thành viên Hội đồng bảo vệ: Chiếm 50% tổng số điểm.
+3. Điều kiện đạt: Điểm tổng kết KLTN phải đạt từ 5.5 điểm (tương ứng điểm C) trở lên. Nếu điểm KLTN dưới 5.5 điểm, sinh viên phải làm lại đề tài mới trong học kỳ kế tiếp.
+
+--- PAGE 26 | student-handbook-2024 | khoa_luan_do_an_tot_nghiep | 2024 ---
+CHƯƠNG VI: THỰC TẬP VÀ KHÓA LUẬN TỐT NGHIỆP (TIẾP THEO)
+
+Điều 52. Tiêu chuẩn và điều kiện công nhận tốt nghiệp đại học
+1. Sinh viên được Nhà trường xét và công nhận tốt nghiệp khi thỏa mãn đồng thời tất cả các tiêu chuẩn khắt khe sau:
+a) Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật từ mức đình chỉ học tập trở lên;
+b) Tích lũy đủ số lượng tín chỉ quy định của chương trình đào tạo chuyên ngành (tối thiểu 125 TC với cử nhân, 150 TC với kỹ sư);
+c) Điểm trung bình chung tích lũy (CPA) của toàn khóa học đạt từ 2.00 trở lên trên thang điểm 4.0;
+d) Đạt chuẩn đầu ra về ngoại ngữ quốc tế (TOEIC tối thiểu 600 hoặc IELTS 5.5 đối với hệ chuẩn);
+e) Đạt chuẩn kỹ năng sử dụng công nghệ thông tin theo quy định hiện hành;
+f) Có Chứng chỉ Giáo dục quốc phòng - an ninh và hoàn thành đủ các học phần Giáo dục thể chất bắt buộc;
+g) Hoàn thành đầy đủ nghĩa vụ học phí và các khoản lệ phí tài chính khác đối với Nhà trường, không nợ sách thư viện.
+2. Thời gian xét tốt nghiệp được tổ chức định kỳ 04 đợt trong năm học (vào tháng 3, tháng 6, tháng 9 và tháng 12) để tạo điều kiện thuận lợi nhất cho sinh viên sớm nhận bằng tham gia thị trường lao động.
+
+Điều 53. Xếp loại tốt nghiệp và hạ bậc xếp loại
+1. Hạng tốt nghiệp của sinh viên được ghi trên văn bằng và bảng điểm theo điểm CPA toàn khóa:
+a) Loại Xuất sắc: CPA từ 3.60 đến 4.00;
+b) Loại Giỏi: CPA từ 3.20 đến 3.59;
+c) Loại Khá: CPA từ 2.50 đến 3.19;
+d) Loại Trung bình: CPA từ 2.00 đến 2.49.
+2. Quy định hạ một bậc xếp loại tốt nghiệp: Hạng tốt nghiệp của sinh viên đạt loại Xuất sắc hoặc Giỏi sẽ bị giảm đi một bậc (từ Xuất sắc xuống Giỏi, từ Giỏi xuống Khá) nếu rơi vào một trong hai trường hợp sau:
+a) Có khối lượng học phần phải thi lại hoặc học lại vượt quá 5% tổng số tín chỉ quy định của toàn bộ chương trình đào tạo;
+b) Đã từng bị kỷ luật trong thời gian học tập từ mức khiển trách cấp trường trở lên.
+
+--- PAGE 27 | student-handbook-2024 | khen_thuong_ky_luat_khieu_nai | 2024 ---
+CHƯƠNG VII: RÈN LUYỆN, KHEN THƯỞNG VÀ KỶ LUẬT
+
+Điều 54. Mục đích và nguyên tắc đánh giá điểm rèn luyện (ĐRL)
+1. Đánh giá kết quả rèn luyện của sinh viên là hoạt động định kỳ vào cuối mỗi học kỳ nhằm đo lường ý thức chấp hành pháp luật, tinh thần trách nhiệm xã hội, đạo đức lối sống và mức độ tích cực tham gia các phong trào văn thể mỹ của sinh viên.
+2. Việc đánh giá phải đảm bảo tính dân chủ, công khai, khách quan và minh bạch từ cấp chi đoàn, lớp sinh viên đến cấp Khoa và Hội đồng đánh giá rèn luyện cấp Trường.
+3. Điểm rèn luyện được chấm theo thang điểm 100 với 05 nội dung tiêu chí cơ bản:
+a) Ý thức học tập, nghiên cứu khoa học và chấp hành quy chế học vụ (Tối đa 20 điểm);
+b) Ý thức chấp hành nội quy, quy chế của Nhà trường và pháp luật Nhà nước (Tối đa 25 điểm);
+c) Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể thao và phòng chống tệ nạn (Tối đa 20 điểm);
+d) Phẩm chất công dân, ý thức trách nhiệm cộng đồng và tham gia các hoạt động tình nguyện vì cộng đồng (Tối đa 25 điểm);
+e) Ý thức và kết quả tham gia phụ trách lớp, các đoàn thể, câu lạc bộ hoặc đạt thành tích đặc biệt trong học tập, thi đấu (Tối đa 10 điểm).
+
+Điều 55. Xếp loại rèn luyện và tác động của kết quả rèn luyện
+1. Căn cứ vào tổng điểm rèn luyện đạt được trong học kỳ, sinh viên được xếp loại như sau:
+a) Loại Xuất sắc: Đạt từ 90 đến 100 điểm;
+b) Loại Tốt: Đạt từ 80 đến 89 điểm;
+c) Loại Khá: Đạt từ 65 đến 79 điểm;
+d) Loại Trung bình: Đạt từ 50 đến 64 điểm;
+e) Loại Yếu: Đạt từ 35 đến 49 điểm;
+f) Loại Kém: Đạt dưới 35 điểm.
+2. Tác động của điểm rèn luyện:
+a) Kết quả rèn luyện là điều kiện bắt buộc để xét cấp học bổng khuyến khích học tập, xét khen thưởng, giao đề tài khóa luận tốt nghiệp và xét tạm hoãn nghĩa vụ quân sự;
+b) Sinh viên bị xếp loại rèn luyện Yếu hoặc Kém trong 02 học kỳ liên tiếp sẽ bị đưa vào danh sách tạm đình chỉ học tập 01 học kỳ chính.
+
+--- PAGE 28 | student-handbook-2024 | khen_thuong_ky_luat_khieu_nai | 2024 ---
+CHƯƠNG VII: RÈN LUYỆN, KHEN THƯỞNG VÀ KỶ LUẬT (TIẾP THEO)
+
+Điều 56. Các hình thức khen thưởng cá nhân và tập thể sinh viên
+1. Hàng năm, Nhà trường tổ chức bình xét và trao tặng các danh hiệu khen thưởng đối với cá nhân sinh viên và tập thể lớp có thành tích xuất sắc trong học tập và phong trào:
+a) Khen thưởng định kỳ cuối năm học:
+- Danh hiệu 'Sinh viên Xuất sắc': Dành cho sinh viên có điểm GPA năm học từ 3.60 trở lên và điểm rèn luyện đạt loại Xuất sắc;
+- Danh hiệu 'Sinh viên Giỏi': Dành cho sinh viên có điểm GPA năm học từ 3.20 trở lên và điểm rèn luyện đạt loại Tốt trở lên;
+- Danh hiệu 'Tập thể Lớp sinh viên Tiên tiến' và 'Tập thể Lớp sinh viên Xuất sắc'.
+b) Khen thưởng đột xuất: Dành cho sinh viên hoặc nhóm sinh viên đạt giải thưởng cao trong các kỳ thi học thuật cấp quốc gia, quốc tế, hội thi Sáng tạo kỹ thuật, kỳ thi Olympic sinh viên, hoặc có hành vi dũng cảm cứu người, bắt cướp, bảo vệ tài sản công.
+2. Hình thức khen thưởng bao gồm: Giấy khen của Hiệu trưởng, Bằng khen của Bộ trưởng Bộ GD&ĐT, tiền thưởng kèm theo và được ghi danh vào Sổ vàng truyền thống của Nhà trường.
+
+Điều 57. Tiêu chuẩn bình chọn danh hiệu 'Sinh viên 5 Tốt' các cấp
+1. Danh hiệu 'Sinh viên 5 Tốt' là danh hiệu cao quý của Hội Sinh viên Việt Nam được xét chọn hàng năm theo 05 tiêu chí cốt lõi:
+a) Đạo đức tốt: Điểm rèn luyện cả năm đạt từ 90 điểm trở lên, không vi phạm pháp luật và quy chế;
+b) Học tập tốt: Điểm trung bình GPA cả năm đạt từ 3.20 trở lên, có tham gia nghiên cứu khoa học hoặc hội thảo chuyên môn;
+c) Thể lực tốt: Đạt danh hiệu Thanh niên khỏe hoặc tham gia giải thi đấu thể thao từ cấp trường trở lên;
+d) Tình nguyện tốt: Tham gia tối thiểu 05 ngày tình nguyện trong năm học (như Mùa hè xanh, Tiếp sức mùa thi, Hiến máu nhân đạo);
+e) Hội nhập tốt: Đạt chứng chỉ ngoại ngữ theo chuẩn quốc tế và hoàn thành khóa huấn luyện kỹ năng hội nhập toàn cầu.
+2. Sinh viên đạt danh hiệu Sinh viên 5 Tốt cấp Trường, cấp Thành phố và cấp Trung ương được ưu tiên xét nhận học bổng du học, tài trợ thực tập tại nước ngoài và giới thiệu việc làm tại các tập đoàn đối tác chiến lược.
+
+--- PAGE 29 | student-handbook-2024 | khen_thuong_ky_luat_khieu_nai | 2024 ---
+CHƯƠNG VII: RÈN LUYỆN, KHEN THƯỞNG VÀ KỶ LUẬT (TIẾP THEO)
+
+Điều 58. Các hành vi sinh viên không được làm và khung kỷ luật
+1. Sinh viên không được thực hiện các hành vi sau trong khuôn viên Nhà trường và trên không gian mạng:
+a) Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể giảng viên, cán bộ quản lý và sinh viên khác;
+b) Gian lận trong học tập: Quay cóp bài thi, mang tài liệu trái phép, nộp bài hộ, điểm danh hộ, sao chép tiểu luận;
+c) Đánh bạc, sử dụng, tàng trữ, buôn bán ma túy, vũ khí, chất cháy nổ hoặc các chất cấm khác;
+d) Tổ chức hoặc tham gia tụ tập biểu tình, truyền bá tôn giáo trái phép, tuyên truyền tài liệu phản động;
+e) Đăng tải thông tin sai sự thật, xúc phạm uy tín của Nhà trường, giảng viên trên mạng xã hội Facebook, TikTok, diễn đàn.
+
+Điều 59. Các hình thức kỷ luật đối với sinh viên vi phạm
+1. Tùy theo tính chất, mức độ và hậu quả của hành vi vi phạm, Hội đồng Kỷ luật sinh viên sẽ xem xét áp dụng một trong các hình thức kỷ luật sau:
+a) Khiển trách: Áp dụng đối với sinh viên vi phạm lần đầu nhưng ở mức độ nhẹ. Sinh viên bị khiển trách sẽ bị trừ 10 điểm rèn luyện trong học kỳ vi phạm;
+b) Cảnh cáo: Áp dụng đối với sinh viên đã bị khiển trách mà tái phạm, hoặc vi phạm các lỗi nghiêm trọng như gian lận có tổ chức trong kiểm tra giữa kỳ, đánh nhau trong trường nhưng chưa gây thương tích nặng. Sinh viên bị cảnh cáo bị hạ 1 bậc xếp loại rèn luyện và thông báo về gia đình;
+c) Đình chỉ học tập có thời hạn:
+- Đình chỉ 01 học kỳ chính: Áp dụng cho hành vi thi hộ lần 1, tàng trữ tài liệu cấm, đánh nhau gây thương tích;
+- Đình chỉ 01 năm học (02 học kỳ chính): Áp dụng cho hành vi vi phạm nghiêm trọng về an ninh trật tự, trộm cắp tài sản giá trị lớn.
+d) Buộc thôi học (Đuổi học): Áp dụng đối với sinh viên vi phạm pháp luật bị kết án tù giam, sử dụng hoặc buôn bán ma túy, thi hộ lần 2, làm giả bằng tốt nghiệp hoặc giấy tờ tuyển sinh.
+2. Mọi quyết định kỷ luật từ mức Cảnh cáo trở lên đều được lưu vào hồ sơ quản lý sinh viên và gửi thông báo chính thức về gia đình và địa phương nơi sinh viên cư trú.
+
+--- PAGE 30 | student-handbook-2024 | khen_thuong_ky_luat_khieu_nai | 2024 ---
+CHƯƠNG VII: RÈN LUYỆN, KHEN THƯỞNG VÀ KỶ LUẬT (TIẾP THEO)
+
+Điều 60. Quy trình và thủ tục xem xét kỷ luật sinh viên
+1. Khi phát hiện sinh viên có hành vi vi phạm nội quy, cán bộ phụ trách hoặc giảng viên phải lập biên bản vi phạm tại chỗ và chuyển toàn bộ hồ sơ về Phòng Công tác Sinh viên trong vòng 24 giờ.
+2. Trình tự tiến hành xem xét kỷ luật:
+a) Bước 1: Sinh viên vi phạm phải viết bản tự kiểm điểm, tường trình rõ hành vi, nguyên nhân và tự nhận hình thức kỷ luật đề xuất;
+b) Bước 2: Ban cán sự lớp sinh viên và Cố vấn học tập tổ chức họp lớp để lấy ý kiến tập thể và lập biên bản đề xuất hình thức kỷ luật;
+c) Bước 3: Phòng Công tác Sinh viên tổng hợp hồ sơ, thẩm tra chứng cứ và triệu tập phiên họp Hội đồng Kỷ luật sinh viên cấp Trường. Sinh viên vi phạm có quyền có mặt tại phiên họp để tự bào chữa hoặc giải trình;
+d) Bước 4: Hội đồng Kỷ luật bỏ phiếu kín để thông qua quyết định và trình Hiệu trưởng ký ban hành Quyết định kỷ luật chính thức.
+
+Điều 61. Quyền khiếu nại và thời hiệu giải quyết khiếu nại của sinh viên
+1. Sinh viên có quyền khiếu nại đối với Quyết định kỷ luật hoặc các quyết định xử lý học vụ nếu cho rằng quyết định đó không đúng quy định, sai lệch sự thật hoặc xâm phạm quyền lợi hợp pháp của mình.
+2. Thủ tục và thời hạn khiếu nại:
+a) Đơn khiếu nại phải được gửi bằng văn bản trực tiếp đến Phòng Thanh tra và Pháp chế trong thời hạn tối đa 15 ngày làm việc kể từ ngày nhận được Quyết định kỷ luật;
+b) Trong thời gian chờ giải quyết khiếu nại, sinh viên vẫn phải nghiêm túc chấp hành quyết định xử lý hiện hành;
+c) Trưởng phòng Thanh tra và Pháp chế có trách nhiệm thụ lý, thành lập tổ xác minh độc lập và tham mưu cho Hiệu trưởng trả lời bằng văn bản trong thời hạn không quá 30 ngày làm việc. Quyết định giải quyết khiếu nại của Hiệu trưởng là quyết định cuối cùng trong phạm vi Nhà trường.
+
+--- PAGE 31 | student-handbook-2024 | cong_tac_sinh_vien_ngoai_tru | 2024 ---
+CHƯƠNG VIII: CÔNG TÁC SINH VIÊN, NỘI TRÚ VÀ NGOẠI TRÚ
+
+Điều 62. Quy định quản lý sinh viên nội trú Ký túc xá (KTX)
+1. Ký túc xá Nhà trường ưu tiên tiếp nhận sinh viên nội trú theo thứ tự ưu tiên: Sinh viên diện chính sách xã hội, con thương binh liệt sĩ, sinh viên khuyết tật, sinh viên dân tộc thiểu số vùng sâu vùng xa, và tân sinh viên khóa mới.
+2. Quyền và nghĩa vụ của sinh viên ở nội trú Ký túc xá:
+a) Được sử dụng các tiện ích sinh hoạt, hệ thống internet tốc độ cao, phòng tự học và khu thể thao phức hợp theo nội quy KTX;
+b) Phải giữ gìn trật tự vệ sinh chung, bảo vệ tài sản công cộng và thực hiện nghiêm ngặt quy định về an toàn phòng cháy chữa cháy (PCCC);
+c) Giờ mở cửa và đóng cửa Ký túc xá: Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày. Sinh viên về muộn sau 23h00 phải xuất trình thẻ nội trú và ký sổ kiểm soát an ninh;
+d) Nghiêm cấm nấu ăn bằng bếp điện, bếp gas trong phòng ở thông thường (chỉ được nấu tại khu vực bếp công cộng quy định); cấm sử dụng rượu bia, chất kích thích, cờ bạc và dẫn người lạ vào ngủ qua đêm trong phòng KTX.
+3. Sinh viên vi phạm nội quy KTX từ 03 lần trở lên trong một học kỳ sẽ bị hủy hợp đồng nội trú, trục xuất khỏi Ký túc xá và bị trừ 20 điểm rèn luyện.
+
+Điều 63. Quy định quản lý và đăng ký tạm trú cho sinh viên ngoại trú
+1. Toàn bộ sinh viên không ở nội trú tại Ký túc xá của Nhà trường (gọi chung là sinh viên ngoại trú) có trách nhiệm thực hiện đăng ký thông tin cư trú chính xác:
+a) Phải làm thủ tục đăng ký tạm trú với Công an xã, phường nơi đang thuê trọ theo quy định của Luật Cư trú trong vòng 15 ngày kể từ ngày chuyển đến;
+b) Cập nhật đầy đủ và chính xác địa chỉ ngoại trú, số điện thoại liên hệ cá nhân và thông tin chủ nhà trọ lên Cổng thông tin sinh viên (Portal) trong vòng 30 ngày kể từ ngày bắt đầu năm học mới.
+2. Trách nhiệm của sinh viên ngoại trú: Tôn trọng nếp sống văn hóa tại khu dân cư, không gây ồn ào sau 22h00 đêm, giữ gìn vệ sinh môi trường xung quanh, và tích cực tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc tại địa phương cư trú.
+
+--- PAGE 32 | student-handbook-2024 | cong_tac_sinh_vien_ngoai_tru | 2024 ---
+CHƯƠNG VIII: CÔNG TÁC SINH VIÊN, NỘI TRÚ VÀ NGOẠI TRÚ (TIẾP THEO)
+
+Điều 64. Hoạt động tư vấn hướng nghiệp và hỗ trợ việc làm cho sinh viên
+1. Trung tâm Hỗ trợ Sinh viên và Quan hệ Doanh nghiệp của Nhà trường là đơn vị đầu mối triển khai các chương trình hướng nghiệp và giới thiệu cơ hội việc làm:
+a) Tổ chức Ngày hội Việc làm (Job Fair) thường niên vào tháng 4 và tháng 10 hàng năm với sự tham gia của hơn 100 doanh nghiệp hàng đầu trong và ngoài nước;
+b) Tổ chức các chuỗi hội thảo chuyên đề (Workshop) về kỹ năng viết hồ sơ ứng tuyển (CV), kỹ năng phỏng vấn tuyển dụng chuyên nghiệp và định hướng lộ trình phát triển nghề nghiệp cho sinh viên từ năm thứ ba;
+c) Vận hành Cổng thông tin việc làm trực tuyến kết nối sinh viên với các vị trí thực tập sinh có lương (internship) và cơ hội tuyển dụng chính thức sau khi tốt nghiệp.
+2. Khảo sát tình trạng việc làm của sinh viên tốt nghiệp: Sinh viên sau khi tốt nghiệp có nghĩa vụ phối hợp phản hồi phiếu khảo sát việc làm sau 03 tháng, 06 tháng và 12 tháng kể từ ngày nhận bằng theo quy định giám sát chất lượng đào tạo của Bộ GD&ĐT.
+
+Điều 65. Hỗ trợ dự án sinh viên nghiên cứu khởi nghiệp và đổi mới sáng tạo
+1. Nhà trường khuyến khích và dành ngân sách hỗ trợ các nhóm sinh viên có ý tưởng khởi nghiệp sáng tạo (Startup) thông qua Vườn ươm Khởi nghiệp Đổi mới Sáng tạo:
+a) Các dự án được tuyển chọn vào Vườn ươm được cấp kinh phí ươm tạo ban đầu từ 20.000.000 VNĐ đến 50.000.000 VNĐ/dự án;
+b) Được miễn phí sử dụng không gian làm việc chung (Co-working space), phòng thí nghiệm chế tạo mẫu (FabLab) và nhận sự cố vấn trực tiếp (mentorship) từ các chuyên gia khởi nghiệp giàu kinh nghiệm;
+c) Sinh viên là trưởng nhóm dự án khởi nghiệp đạt giải Nhì cấp trường trở lên được xem xét miễn giảm học phần Khóa luận tốt nghiệp và được tính điểm thay thế tương đương học phần đồ án tốt nghiệp xuất sắc.
+
+Điều 66. Hiệu lực thi hành
+Quy chế này có hiệu lực thi hành kể từ ngày ký quyết định ban hành và áp dụng cho tất cả các khóa đào tạo chính quy đang theo học tại trường. Mọi quy định trước đây trái với văn bản này đều bãi bỏ.
+

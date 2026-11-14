@@ -1,0 +1,301 @@
+{
+  "source_id": "student-handbook-vn-academic-regulations",
+  "title": "Sổ tay Quy chế Đào tạo và Công tác Học vụ Đại học Chính quy (Ban hành kèm Quyết định số 1826/QĐ-ĐH và sửa đổi bổ sung năm 2025)",
+  "source_path_or_url": "data/raw/student_handbook_corpus.json",
+  "license_or_permission": "Open Educational Resource / Nội quy học vụ công khai của cơ sở giáo dục đại học (CC BY 4.0)",
+  "accessed_at": "2026-11-13",
+  "methodology": "Tài liệu được phân chia theo cấu trúc 32 trang nội dung hữu ích, loại bỏ trang bìa và mục lục. Mỗi trang là một đơn vị văn bản độc lập có ý nghĩa, chứa trên 1.500 ký tự chuẩn hóa Unicode NFC, phục vụ đầy đủ cho việc chia chunk (fixed-size vs structure-aware) và lọc theo metadata (section, year).",
+  "total_physical_pages": 32,
+  "total_characters": 62492,
+  "average_chars_per_page": 1952.9,
+  "pages": [
+    {
+      "page_id": "student-handbook-2024_p01",
+      "physical_page": 1,
+      "title": "Chương I: Quy định chung và Mục tiêu chương trình đào tạo",
+      "section": "quy_dinh_chung",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2723
+    },
+    {
+      "page_id": "student-handbook-2024_p02",
+      "physical_page": 2,
+      "title": "Chương I: Thời gian và Kế hoạch đào tạo chuẩn",
+      "section": "quy_dinh_chung",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2187
+    },
+    {
+      "page_id": "student-handbook-2024_p03",
+      "physical_page": 3,
+      "title": "Chương II: Tuyển sinh, Nhập học và Xác nhận nhập học",
+      "section": "tuyen_sinh_nhap_hoc",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2099
+    },
+    {
+      "page_id": "student-handbook-2024_p04",
+      "physical_page": 4,
+      "title": "Chương II: Chuyển trường, Chuyển ngành và Học cùng lúc hai chương trình",
+      "section": "tuyen_sinh_nhap_hoc",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2260
+    },
+    {
+      "page_id": "student-handbook-2024_p05",
+      "physical_page": 5,
+      "title": "Chương III: Đăng ký học phần và Hạn mức tín chỉ mỗi học kỳ",
+      "section": "to_chuc_dao_tao_tin_chi",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2153
+    },
+    {
+      "page_id": "student-handbook-2024_p06",
+      "physical_page": 6,
+      "title": "Chương III: Rút học phần, Hủy học phần và Học cải thiện điểm",
+      "section": "to_chuc_dao_tao_tin_chi",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2063
+    },
+    {
+      "page_id": "student-handbook-2024_p07",
+      "physical_page": 7,
+      "title": "Chương III: Lớp học phần, Điểm danh và Điều kiện dự thi kết thúc học phần",
+      "section": "to_chuc_dao_tao_tin_chi",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2042
+    },
+    {
+      "page_id": "student-handbook-2024_p08",
+      "physical_page": 8,
+      "title": "Chương III: Tạm dừng học tập, Bảo lưu kết quả và Nghỉ ốm dài hạn",
+      "section": "to_chuc_dao_tao_tin_chi",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1941
+    },
+    {
+      "page_id": "student-handbook-2024_p09",
+      "physical_page": 9,
+      "title": "Chương III: Xử lý học vụ, Cảnh báo học tập và Buộc thôi học",
+      "section": "to_chuc_dao_tao_tin_chi",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2127
+    },
+    {
+      "page_id": "student-handbook-2024_p10",
+      "physical_page": 10,
+      "title": "Chương III: Chuyển đổi tín chỉ và Công nhận kết quả học tập tương đương",
+      "section": "to_chuc_dao_tao_tin_chi",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1755
+    },
+    {
+      "page_id": "student-handbook-2024_p11",
+      "physical_page": 11,
+      "title": "Chương IV: Đánh giá kết quả học tập và Thành phần điểm học phần",
+      "section": "danh_gia_hoc_phan_thi_cu",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1797
+    },
+    {
+      "page_id": "student-handbook-2024_p12",
+      "physical_page": 12,
+      "title": "Chương IV: Thang điểm 10, Thang điểm chữ và Thang điểm 4",
+      "section": "danh_gia_hoc_phan_thi_cu",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1620
+    },
+    {
+      "page_id": "student-handbook-2024_p13",
+      "physical_page": 13,
+      "title": "Chương IV: Tổ chức thi kết thúc học phần, Đề thi và Coi thi",
+      "section": "danh_gia_hoc_phan_thi_cu",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1967
+    },
+    {
+      "page_id": "student-handbook-2024_p14",
+      "physical_page": 14,
+      "title": "Chương IV: Chấm thi, Phúc khảo bài thi và Khiếu nại điểm số",
+      "section": "danh_gia_hoc_phan_thi_cu",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1811
+    },
+    {
+      "page_id": "student-handbook-2024_p15",
+      "physical_page": 15,
+      "title": "Chương IV: Hoãn thi, Thi bù và Xử lý vắng thi có lý do",
+      "section": "danh_gia_hoc_phan_thi_cu",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1786
+    },
+    {
+      "page_id": "student-handbook-2024_p16",
+      "physical_page": 16,
+      "title": "Chương IV: Xử lý vi phạm quy chế thi và Kỷ luật phòng thi",
+      "section": "danh_gia_hoc_phan_thi_cu",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1800
+    },
+    {
+      "page_id": "student-handbook-2024_p17",
+      "physical_page": 17,
+      "title": "Chương V: Học phí, Định mức tín chỉ và Thời hạn đóng học phí",
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1811
+    },
+    {
+      "page_id": "student-handbook-2024_p18",
+      "physical_page": 18,
+      "title": "Chương V: Miễn giảm học phí và Trợ cấp xã hội cho sinh viên chính sách",
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1904
+    },
+    {
+      "page_id": "student-handbook-2024_p19",
+      "physical_page": 19,
+      "title": "Chương V: Học bổng khuyến khích học tập và Tiêu chí xét duyệt",
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1909
+    },
+    {
+      "page_id": "student-handbook-2024_p20",
+      "physical_page": 20,
+      "title": "Chương V: Học bổng tài trợ doanh nghiệp và Hỗ trợ khẩn cấp",
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1725
+    },
+    {
+      "page_id": "student-handbook-2025_p21",
+      "physical_page": 21,
+      "title": "Chương V: Cập nhật quy định Học bổng Khuyến khích học tập Niên khóa mới 2025",
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2025,
+      "document_id": "student-handbook-2025",
+      "char_count": 1892
+    },
+    {
+      "page_id": "student-handbook-2025_p22",
+      "physical_page": 22,
+      "title": "Chương V: Quy định định mức Học phí và Chính sách hoàn phí năm 2025",
+      "section": "hoc_phi_mien_giam_hoc_bong",
+      "year": 2025,
+      "document_id": "student-handbook-2025",
+      "char_count": 1786
+    },
+    {
+      "page_id": "student-handbook-2024_p23",
+      "physical_page": 23,
+      "title": "Chương VI: Điều kiện làm Khóa luận tốt nghiệp và Đồ án tốt nghiệp",
+      "section": "khoa_luan_do_an_tot_nghiep",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1755
+    },
+    {
+      "page_id": "student-handbook-2024_p24",
+      "physical_page": 24,
+      "title": "Chương VI: Quy trình hướng dẫn, Nộp đề tài và Chấm phản biện khóa luận",
+      "section": "khoa_luan_do_an_tot_nghiep",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1927
+    },
+    {
+      "page_id": "student-handbook-2024_p25",
+      "physical_page": 25,
+      "title": "Chương VI: Hội đồng bảo vệ khóa luận tốt nghiệp và Tiêu chí chấm điểm",
+      "section": "khoa_luan_do_an_tot_nghiep",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1831
+    },
+    {
+      "page_id": "student-handbook-2024_p26",
+      "physical_page": 26,
+      "title": "Chương VI: Điều kiện xét tốt nghiệp và Cấp bằng cử nhân/kỹ sư",
+      "section": "khoa_luan_do_an_tot_nghiep",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1921
+    },
+    {
+      "page_id": "student-handbook-2024_p27",
+      "physical_page": 27,
+      "title": "Chương VII: Đánh giá kết quả rèn luyện của sinh viên",
+      "section": "khen_thuong_ky_luat_khieu_nai",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1870
+    },
+    {
+      "page_id": "student-handbook-2024_p28",
+      "physical_page": 28,
+      "title": "Chương VII: Khen thưởng sinh viên tiêu biểu và Danh hiệu thi đua",
+      "section": "khen_thuong_ky_luat_khieu_nai",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2078
+    },
+    {
+      "page_id": "student-handbook-2024_p29",
+      "physical_page": 29,
+      "title": "Chương VII: Kỷ luật sinh viên và Các hình thức kỷ luật từ Khiển trách đến Buộc thôi học",
+      "section": "khen_thuong_ky_luat_khieu_nai",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2031
+    },
+    {
+      "page_id": "student-handbook-2024_p30",
+      "physical_page": 30,
+      "title": "Chương VII: Trình tự, Thủ tục xem xét kỷ luật và Quyền khiếu nại của sinh viên",
+      "section": "khen_thuong_ky_luat_khieu_nai",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 1821
+    },
+    {
+      "page_id": "student-handbook-2024_p31",
+      "physical_page": 31,
+      "title": "Chương VIII: Quản lý sinh viên nội trú ký túc xá và Ngoại trú",
+      "section": "cong_tac_sinh_vien_ngoai_tru",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2031
+    },
+    {
+      "page_id": "student-handbook-2024_p32",
+      "physical_page": 32,
+      "title": "Chương VIII: Hoạt động hỗ trợ việc làm, Hướng nghiệp và Khởi nghiệp",
+      "section": "cong_tac_sinh_vien_ngoai_tru",
+      "year": 2024,
+      "document_id": "student-handbook-2024",
+      "char_count": 2069
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "query_id": "q16",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "review_comment": "Câu trả lời đúng trọng tâm, trích dẫn chuẩn xác bằng chứng vàng."
+  },
+  {
+    "query_id": "q17",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "review_comment": "Câu trả lời đúng trọng tâm, trích dẫn chuẩn xác bằng chứng vàng."
+  },
+  {
+    "query_id": "q18",
+    "citation_support": [],
+    "answer_grade": 0,
+    "review_comment": "Bị từ chối nhầm trên câu có đáp án (False Abstention)."
+  },
+  {
+    "query_id": "q19",
+    "citation_support": [],
+    "answer_grade": 0,
+    "review_comment": "Bị từ chối nhầm trên câu có đáp án (False Abstention)."
+  },
+  {
+    "query_id": "q20",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "review_comment": "Câu trả lời đúng trọng tâm, trích dẫn chuẩn xác bằng chứng vàng."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "review_comment": "Từ chối chính xác: Sổ tay không đề cập (Điều 52 và Điều 53 chỉ quy định về tiêu chuẩn xét tốt nghiệp và cấp bằng cử nhân, kỹ sư; không có bất kỳ điều khoản nào quy định về điều kiện tuyển sinh hay liên thông lên bậc đào tạo Tiến sĩ.)."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "review_comment": "Từ chối chính xác: Sổ tay không đề cập (Điều 41 chỉ quy định về Quỹ hỗ trợ sinh viên khẩn cấp trong nước và chương trình tín dụng đào tạo ưu đãi theo Quyết định 157/2007/QĐ-TTg của Thủ tướng Chính phủ qua Ngân hàng Chính sách Xã hội; không có quy định về gói vay du học quốc tế không lãi suất.)."
+  }
+]
